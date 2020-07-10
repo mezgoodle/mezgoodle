@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h1 align="center">Hello there 👋</h1>
+<p align="center">
+	<img src="https://github.com/mezgoodle/images/blob/master/mezgoodle1.png">
+</p>
 <!--
 **mezgoodle/mezgoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
