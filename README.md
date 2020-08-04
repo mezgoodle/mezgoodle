@@ -3,8 +3,8 @@
    <img src="https://raw.githubusercontent.com/mezgoodle/images/master/mezgoodle1.png"><br/>
 </p>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&layout=compact">
-   <img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&count_private=true">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&layout=compact&hide_border=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&count_private=truet&hide_border=true">
 </p>
 
 <!--
