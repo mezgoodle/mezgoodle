@@ -1,7 +1,12 @@
 <h1 align="center">Hello there 👋</h1>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/mezgoodle/images/master/mezgoodle1.png">
+   <img src="https://raw.githubusercontent.com/mezgoodle/images/master/mezgoodle1.png"><br/>
 </p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&layout=compact">
+   <img src="https://github-readme-stats.vercel.app/api?username=mezgoodle">
+</p>
+
 <!--
 **mezgoodle/mezgoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
