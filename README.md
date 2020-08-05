@@ -30,8 +30,8 @@
 - ⚡ Fun fact: copy ninja is the best
 
 <p align="center">
-	<a href="mezgoodle@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="20" width="20" /></a>
-	  <a href="https://www.facebook.com/profile.php?id=100005721694357" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005721694357" height="20" width="20" /></a>
-	  <a href="https://www.instagram.com/sylvenis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sylvenis/" height="20" width="20" /></a>
-	 <a href="https://t.me/sylvenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/sylvenis" height="20" width="20" /></a>
+	<a href="mailto:mezgoodle@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="20" width="20" /></a>
+	  <a href="https://www.facebook.com/profile.php?id=100005721694357" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005721694357" height="20" width="20" /></a>
+	  <a href="https://www.instagram.com/sylvenis/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sylvenis/" height="20" width="20" /></a>
+	 <a href="https://t.me/sylvenis" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/sylvenis" height="20" width="20" /></a>
 </p>
