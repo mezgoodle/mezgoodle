@@ -1,8 +1,8 @@
 <h1 align="center">Hello there 👋</h1>
 <h3 align="center">I like to learn new things and share them</h3>
 
-<p align="center"
-	<img src="https://raw.githubusercontent.com/mezgoodle/images/master/mezgoodle1.png" alt="python image"/><br/>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/mezgoodle/images/master/mezgoodle1.png"/>
 </p>
 
 <p align="center">
