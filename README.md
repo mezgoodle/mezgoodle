@@ -10,9 +10,10 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&count_private=truet&hide_border=true" alt="github langs"/>
 </p>
 
-:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :
+<h4> :wrench: Work with: </h4>
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=node-dot-js&logoColor=white"><br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img
     src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img
     src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img
