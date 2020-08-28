@@ -10,6 +10,28 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&count_private=truet&hide_border=true" alt="github langs"/>
 </p>
 
+:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img
+    src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img
+    src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img
+    src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"> <br />
+<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white"> <img
+    src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows"> <img
+    src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android"> <br />
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> <img
+    src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"> <br />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img
+    src="https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Travis%20CI-dfd896?style=for-the-badge&logo=Travis%20CI&logoColor=92232c"> <img
+    src="https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=CircleCI"> <img
+    src="https://img.shields.io/badge/-Drone%20CI-212121?style=for-the-badge&logo=Drone"> <br />
+<img src="https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"> <img
+    src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
+
+
+
 <h4>Work with: </h4>
 <p align="left">
 	<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
