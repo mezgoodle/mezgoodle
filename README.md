@@ -28,6 +28,7 @@
 - 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **Flask**, **CI/CD**
 - 📫 How to reach me? Write to this address: mezgoodle@gmail.com
 - ⚡ Fun fact: copy ninja is the best
+- 🎵 I love _Linkin Park_
 
 <p align="center">
 	<a href="mailto:mezgoodle@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="30" width="30" /></a>
