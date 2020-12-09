@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&layout=compact&hide_border=true" alt="github stats"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&count_private=truet&hide_border=true" alt="github langs"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&layout=compact&hide_border=true&theme=tokyonight" alt="github stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&count_private=truet&hide_border=true&theme=tokyonight" alt="github langs"/>
 </p>
 
 <h4> :wrench: Work with: </h4>
