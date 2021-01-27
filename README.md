@@ -27,6 +27,7 @@
 - #️⃣ My [portfolio](https://mezgoodle-portfolio.herokuapp.com/)
 - ⚡ Fun fact: copy ninja is the best
 - 🎵 I love _Linkin Park_
+- 🖊️ My nicknames: @sylvenis and @mezgoodle
 
 <p align="center">
 	<a href="mailto:mezgoodle@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="30" width="30" /></a>
