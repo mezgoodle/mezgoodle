@@ -1,5 +1,7 @@
-<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maxim Zavalniuk</h1>
 <h3 align="center">I like to learn new things and share them</h3>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezgoodle&theme=onedark&row=3&no-frame=true&margin-w=7" alt="mezgoodle" /></a></p>
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&layout=compact&hide_border=true&theme=tokyonight" alt="github stats"/>
