@@ -1,35 +1,31 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maxim Zavalniuk</h1>
 <h3 align="center">I like to learn new things and share them</h3>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezgoodle&theme=onedark&row=3&no-frame=true&margin-w=7" alt="mezgoodle" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezgoodle&row=3&no-frame=true&margin-w=7&margin-h=7" alt="mezgoodle" /></a></p>
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&layout=compact&hide_border=true&theme=tokyonight" alt="github stats"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&count_private=truet&hide_border=true&theme=tokyonight" alt="github langs"/>
-</p>
+<hr>
 
-<h4> :wrench: Work with: </h4>
+- 👨‍💻 All of my projects are available [here](https://github.com/mezgoodle?tab=repositories).
+- 🔭 I’m currently working with this [projects](https://github.com/mezidia/roadmap).
+- 🌱 I’m currently learning interesting things.
+- 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **Flask**, **CI/CD**.
+- 📫 How to reach me? Write to this address: mezgoodle@gmail.com.
+- #️⃣ My [portfolio](https://mezgoodle-portfolio.herokuapp.com/).
+- ⚡ Fun fact: copy ninja is the best.
+- 🎵 I love _Linkin Park_.
+- 🖊️ My nicknames: @sylvenis and @mezgoodle.
 
-<img src="https://img.shields.io/badge/-Docker-0066ff?style=for-the-badge&logo=docker&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Heroku-6600ff?style=for-the-badge&logo=heroku&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-00cc00?style=for-the-badge&logo=node-dot-js&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Django-006600?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/-React-3399ff?style=for-the-badge&logo=react&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows"> <br />
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-GitLab-ff6600?style=for-the-badge&logo=gitlab&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Travis%20CI-dfd896?style=for-the-badge&logo=Travis%20CI&logoColor=92232c"> <img src="https://img.shields.io/badge/-Github_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB"> <img src="https://img.shields.io/badge/-MongoDB-009933?style=for-the-badge&logo=mongodb&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <br />
+<hr>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/mezgoodle?tab=repositories)
-- 🔭 I’m currently working with **Python**, **Node.JS**, **Docker**
-- 🌱 I’m currently learning interesting things
-- 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **Flask**, **CI/CD**
-- 📫 How to reach me? Write to this address: mezgoodle@gmail.com
-- #️⃣ My [portfolio](https://mezgoodle-portfolio.herokuapp.com/)
-- ⚡ Fun fact: copy ninja is the best
-- 🎵 I love _Linkin Park_
-- 🖊️ My nicknames: @sylvenis and @mezgoodle
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezgoodle&show_icons=true&locale=en&layout=compact" alt="mezgoodle" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&locale=en" alt="mezgoodle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle&" alt="mezgoodle" /></p>
+
 
 <p align="center">
 	<a href="mailto:mezgoodle@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="30" width="30" /></a>
