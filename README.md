@@ -76,6 +76,8 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&locale=en&hide_border=true" alt="mezgoodle" /></p>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle" alt="mezgoodle" /></p>
+
 <p align="center">
 	<a href="mailto:mezgoodle@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="30" width="30" /></a>
 	<a href="https://www.facebook.com/profile.php?id=100005721694357" target="_blank" title="Facebook"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005721694357" height="30" width="30" /></a>
