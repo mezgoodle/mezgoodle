@@ -9,7 +9,7 @@
 - 🔭 I’m currently working with this [projects](https://github.com/mezidia/roadmap).
 - 🌱 I’m currently learning interesting things.
 - 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **Flask**, **CI/CD**.
-- 📫 How to reach me? Write to this address: mezgoodle@gmail.com.
+- 📫 How to reach me? Write to this address: mezidiaofficial@gmail.com.
 - #️⃣ My [portfolio](https://mezgoodle-portfolio.herokuapp.com/).
 - ⚡ Fun fact: copy ninja is the best.
 - 🎵 I love _Linkin Park_.
