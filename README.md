@@ -55,14 +55,15 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
 
+<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com/mezgoodle/breaker/pull/9) in [mezgoodle/breaker](https://github.com/mezgoodle/breaker)
 2. ❗️ Closed issue [#8](https://github.com/mezidia/roadmap/issues/8) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
 3. 🎉 Merged PR [#55](https://github.com/mezgoodle/space-bot/pull/55) in [mezgoodle/space-bot](https://github.com/mezgoodle/space-bot)
 4. 🎉 Merged PR [#56](https://github.com/mezgoodle/Caesar-and-Vigenere-ciphers/pull/56) in [mezgoodle/Caesar-and-Vigenere-ciphers](https://github.com/mezgoodle/Caesar-and-Vigenere-ciphers)
 5. 🎉 Merged PR [#132](https://github.com/mezgoodle/weather-bot/pull/132) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>
