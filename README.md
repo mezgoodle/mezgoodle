@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maxim Zavalniuk</h1>
-<h3 align="center">I like to learn new things and share them</h3>
+
+![](https://visitor-badge.glitch.me/badge?page_id=mezgoodle.mezgoodle)
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezgoodle&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="mezgoodle" /></a></p>
 
@@ -31,14 +32,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  <a href="https://v3.vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -52,31 +50,24 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-	<a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://travis-ci.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
-  </a>
+  
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mezgoodle&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mezgoodle" /></p>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  <!--START_SECTION:activity-->
+</details>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&locale=en&hide_border=true" alt="mezgoodle" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mezgoodle&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mezgoodle" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle&hide_border=false" alt="mezgoodle" /></p>
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&locale=en&hide_border=true" alt="mezgoodle" /></p>
+
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle&hide_border=false" alt="mezgoodle" /></p>
+</details>
+
+
 
 <p align="center">
 	<a href="mailto:mezidiaofficial@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="30" width="30" /></a>
