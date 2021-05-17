@@ -58,10 +58,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-2. ❗️ Closed issue [#3](https://github.com/mezgoodle/mezgoodle-bot/issues/3) in [mezgoodle/mezgoodle-bot](https://github.com/mezgoodle/mezgoodle-bot)
-3. 🎉 Merged PR [#9](https://github.com/mezgoodle/breaker/pull/9) in [mezgoodle/breaker](https://github.com/mezgoodle/breaker)
-4. ❗️ Closed issue [#8](https://github.com/mezidia/roadmap/issues/8) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-5. 🎉 Merged PR [#55](https://github.com/mezgoodle/space-bot/pull/55) in [mezgoodle/space-bot](https://github.com/mezgoodle/space-bot)
+2. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. ❌ Closed PR [#73](https://github.com/mezidia/song-helper/pull/73) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+4. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+5. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
 
 </details>
