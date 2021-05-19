@@ -57,10 +57,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/mezidia/song-helper/pull/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-2. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-4. ❌ Closed PR [#73](https://github.com/mezidia/song-helper/pull/73) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. 🗣 Commented on [#36](https://github.com/mezidia/song-helper/issues/36) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+2. 🗣 Commented on [#36](https://github.com/mezidia/song-helper/issues/36) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. 🎉 Merged PR [#71](https://github.com/mezidia/song-helper/pull/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+4. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 5. 🗣 Commented on [#71](https://github.com/mezidia/song-helper/issues/71) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
 
