@@ -57,9 +57,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/mezidia/roadmap/issues/20) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-2. ❌ Closed PR [#74](https://github.com/mezidia/song-helper/pull/74) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. 🗣 Commented on [#36](https://github.com/mezidia/song-helper/issues/36) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. 💪 Opened PR [#5](https://github.com/mezgoodle/portfolio/pull/5) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
+2. ❗️ Opened issue [#20](https://github.com/mezidia/roadmap/issues/20) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+3. ❌ Closed PR [#74](https://github.com/mezidia/song-helper/pull/74) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 4. 🗣 Commented on [#36](https://github.com/mezidia/song-helper/issues/36) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 5. 🗣 Commented on [#36](https://github.com/mezidia/song-helper/issues/36) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
