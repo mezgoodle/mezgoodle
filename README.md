@@ -57,11 +57,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/mezgoodle/portfolio/pull/5) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
-2. ❗️ Opened issue [#20](https://github.com/mezidia/roadmap/issues/20) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-3. ❌ Closed PR [#74](https://github.com/mezidia/song-helper/pull/74) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-4. 🗣 Commented on [#36](https://github.com/mezidia/song-helper/issues/36) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-5. 🗣 Commented on [#36](https://github.com/mezidia/song-helper/issues/36) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. 🎉 Merged PR [#5](https://github.com/mezgoodle/portfolio/pull/5) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
+2. 🎉 Merged PR [#11](https://github.com/mezgoodle/numericalMethods_labs/pull/11) in [mezgoodle/numericalMethods_labs](https://github.com/mezgoodle/numericalMethods_labs)
+3. 🎉 Merged PR [#10](https://github.com/mezgoodle/numericalMethods_labs/pull/10) in [mezgoodle/numericalMethods_labs](https://github.com/mezgoodle/numericalMethods_labs)
+4. 🎉 Merged PR [#136](https://github.com/mezgoodle/weather-bot/pull/136) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+5. 🎉 Merged PR [#9](https://github.com/mezgoodle/numericalMethods_labs/pull/9) in [mezgoodle/numericalMethods_labs](https://github.com/mezgoodle/numericalMethods_labs)
 <!--END_SECTION:activity-->
 
 </details>
