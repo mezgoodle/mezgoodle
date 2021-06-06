@@ -6,7 +6,7 @@
 
 <hr>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/mezgoodle?tab=repositories). Look for **non-archieved** and **non-private**.
+- 👨‍💻 All of my projects are available [here](https://github.com/mezgoodle?tab=repositories). Look for **non-archived** and **non-private**.
 - 🔭 I’m currently working with this [projects](https://github.com/mezidia/roadmap).
 - 🌱 I’m currently learning interesting things.
 - 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **Flask**, **CI/CD** and etc.
