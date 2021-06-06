@@ -6,12 +6,13 @@
 
 <hr>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/mezgoodle?tab=repositories).
+- 👨‍💻 All of my projects are available [here](https://github.com/mezgoodle?tab=repositories). Look for **non-archieved** and **non-private**.
 - 🔭 I’m currently working with this [projects](https://github.com/mezidia/roadmap).
 - 🌱 I’m currently learning interesting things.
-- 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **Flask**, **CI/CD**.
+- 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **Flask**, **CI/CD** and etc.
 - 📫 How to reach me? Write to this address: mezidiaofficial@gmail.com.
 - #️⃣ My [portfolio](https://mezgoodle-portfolio.herokuapp.com/).
+- 🦊 My [fox](https://gitlab.com/mezgoodle).
 - ⚡ Fun fact: copy ninja is the best.
 - 🎵 I love _Linkin Park_.
 - 🖊️ My nicknames: @sylvenis and @mezgoodle.
