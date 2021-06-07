@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mezgoodle/portfolio/pull/5) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
-2. 🎉 Merged PR [#11](https://github.com/mezgoodle/numericalMethods_labs/pull/11) in [mezgoodle/numericalMethods_labs](https://github.com/mezgoodle/numericalMethods_labs)
-3. 🎉 Merged PR [#10](https://github.com/mezgoodle/numericalMethods_labs/pull/10) in [mezgoodle/numericalMethods_labs](https://github.com/mezgoodle/numericalMethods_labs)
-4. 🎉 Merged PR [#136](https://github.com/mezgoodle/weather-bot/pull/136) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-5. 🎉 Merged PR [#9](https://github.com/mezgoodle/numericalMethods_labs/pull/9) in [mezgoodle/numericalMethods_labs](https://github.com/mezgoodle/numericalMethods_labs)
+1. 🎉 Merged PR [#22](https://github.com/mezgoodle/auto-formatter/pull/22) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+2. 💪 Opened PR [#22](https://github.com/mezgoodle/auto-formatter/pull/22) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+3. 🎉 Merged PR [#7](https://github.com/mezgoodle/portfolio/pull/7) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
+4. ❌ Closed PR [#9](https://github.com/mezgoodle/TOC-generator/pull/9) in [mezgoodle/TOC-generator](https://github.com/mezgoodle/TOC-generator)
+5. 💪 Opened PR [#9](https://github.com/mezgoodle/TOC-generator/pull/9) in [mezgoodle/TOC-generator](https://github.com/mezgoodle/TOC-generator)
 <!--END_SECTION:activity-->
 
 </details>
