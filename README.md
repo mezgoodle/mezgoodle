@@ -73,7 +73,7 @@
 
   <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&locale=en&hide_border=true" alt="mezgoodle" /></p>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle&hide_border=true" alt="mezgoodle" /></p>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle&hide_border=false" alt="mezgoodle" /></p>
 </details>
 
 
