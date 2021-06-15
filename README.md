@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/mezgoodle/auto-formatter/pull/22) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
-2. 💪 Opened PR [#22](https://github.com/mezgoodle/auto-formatter/pull/22) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
-3. 🎉 Merged PR [#7](https://github.com/mezgoodle/portfolio/pull/7) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
-4. ❌ Closed PR [#9](https://github.com/mezgoodle/TOC-generator/pull/9) in [mezgoodle/TOC-generator](https://github.com/mezgoodle/TOC-generator)
-5. 💪 Opened PR [#9](https://github.com/mezgoodle/TOC-generator/pull/9) in [mezgoodle/TOC-generator](https://github.com/mezgoodle/TOC-generator)
+1. 🎉 Merged PR [#23](https://github.com/mezgoodle/auto-formatter/pull/23) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+2. 💪 Opened PR [#23](https://github.com/mezgoodle/auto-formatter/pull/23) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+3. 🎉 Merged PR [#22](https://github.com/mezgoodle/auto-formatter/pull/22) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+4. 💪 Opened PR [#22](https://github.com/mezgoodle/auto-formatter/pull/22) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+5. 🎉 Merged PR [#7](https://github.com/mezgoodle/portfolio/pull/7) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
