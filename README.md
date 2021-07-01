@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#70](https://github.com/mezgoodle/SQL/pull/70) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-2. 💪 Opened PR [#70](https://github.com/mezgoodle/SQL/pull/70) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-3. ❗️ Closed issue [#69](https://github.com/mezgoodle/SQL/issues/69) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-4. ❗️ Opened issue [#69](https://github.com/mezgoodle/SQL/issues/69) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-5. ❌ Closed PR [#68](https://github.com/mezgoodle/SQL/pull/68) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+1. ❌ Closed PR [#72](https://github.com/mezgoodle/SQL/pull/72) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+2. 💪 Opened PR [#72](https://github.com/mezgoodle/SQL/pull/72) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+3. ❗️ Closed issue [#71](https://github.com/mezgoodle/SQL/issues/71) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+4. ❗️ Opened issue [#71](https://github.com/mezgoodle/SQL/issues/71) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+5. ❌ Closed PR [#70](https://github.com/mezgoodle/SQL/pull/70) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
 <!--END_SECTION:activity-->
 
 </details>
