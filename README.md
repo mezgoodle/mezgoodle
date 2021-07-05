@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/mezgoodle/weather-bot/pull/139) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-2. 🎉 Merged PR [#140](https://github.com/mezgoodle/weather-bot/pull/140) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-3. ❌ Closed PR [#141](https://github.com/mezgoodle/weather-bot/pull/141) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-4. 🎉 Merged PR [#5](https://github.com/mezgoodle/TestLabs-kpi/pull/5) in [mezgoodle/TestLabs-kpi](https://github.com/mezgoodle/TestLabs-kpi)
-5. ❌ Closed PR [#76](https://github.com/mezgoodle/SQL/pull/76) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+1. ❌ Closed PR [#2](https://github.com/mezgoodle/github-helper/pull/2) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+2. 💪 Opened PR [#2](https://github.com/mezgoodle/github-helper/pull/2) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+3. ❌ Closed PR [#79](https://github.com/mezgoodle/SQL/pull/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+4. 💪 Opened PR [#79](https://github.com/mezgoodle/SQL/pull/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+5. ❗️ Closed issue [#78](https://github.com/mezgoodle/SQL/issues/78) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
 <!--END_SECTION:activity-->
 
 </details>
