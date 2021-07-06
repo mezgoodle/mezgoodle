@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/mezgoodle/github-helper/pull/2) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-2. 💪 Opened PR [#2](https://github.com/mezgoodle/github-helper/pull/2) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-3. ❌ Closed PR [#79](https://github.com/mezgoodle/SQL/pull/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-4. 💪 Opened PR [#79](https://github.com/mezgoodle/SQL/pull/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-5. ❗️ Closed issue [#78](https://github.com/mezgoodle/SQL/issues/78) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+1. ❗️ Closed issue [#92](https://github.com/mezgoodle/SQL/issues/92) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+2. ❗️ Closed issue [#91](https://github.com/mezgoodle/SQL/issues/91) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+3. ❗️ Closed issue [#90](https://github.com/mezgoodle/SQL/issues/90) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+4. ❗️ Closed issue [#89](https://github.com/mezgoodle/SQL/issues/89) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+5. ❗️ Closed issue [#88](https://github.com/mezgoodle/SQL/issues/88) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
 <!--END_SECTION:activity-->
 
 </details>
