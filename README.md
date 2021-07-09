@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#113](https://github.com/mezgoodle/SQL/issues/113) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-2. ❗️ Closed issue [#101](https://github.com/mezgoodle/SQL/issues/101) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-3. ❗️ Closed issue [#100](https://github.com/mezgoodle/SQL/issues/100) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-4. ❗️ Closed issue [#99](https://github.com/mezgoodle/SQL/issues/99) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-5. ❗️ Closed issue [#98](https://github.com/mezgoodle/SQL/issues/98) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+1. ❗️ Closed issue [#114](https://github.com/mezgoodle/SQL/issues/114) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+2. ❗️ Closed issue [#113](https://github.com/mezgoodle/SQL/issues/113) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+3. ❗️ Closed issue [#101](https://github.com/mezgoodle/SQL/issues/101) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+4. ❗️ Closed issue [#100](https://github.com/mezgoodle/SQL/issues/100) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+5. ❗️ Closed issue [#99](https://github.com/mezgoodle/SQL/issues/99) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
 <!--END_SECTION:activity-->
 
 </details>
