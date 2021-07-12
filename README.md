@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#114](https://github.com/mezgoodle/SQL/issues/114) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-2. ❗️ Closed issue [#113](https://github.com/mezgoodle/SQL/issues/113) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-3. ❗️ Closed issue [#101](https://github.com/mezgoodle/SQL/issues/101) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-4. ❗️ Closed issue [#100](https://github.com/mezgoodle/SQL/issues/100) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-5. ❗️ Closed issue [#99](https://github.com/mezgoodle/SQL/issues/99) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+1. 🗣 Commented on [#1](https://github.com/mezidia/mezidia-inspector/issues/1) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+2. 🗣 Commented on [#2](https://github.com/mezidia/mezidia-inspector/issues/2) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+3. ❗️ Closed issue [#14](https://github.com/mezidia/roadmap/issues/14) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+4. ❌ Closed PR [#3](https://github.com/mezgoodle/github-helper/pull/3) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+5. ❌ Closed PR [#4](https://github.com/mezgoodle/github-helper/pull/4) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
 <!--END_SECTION:activity-->
 
 </details>
