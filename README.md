@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#130](https://github.com/mezgoodle/SQL/issues/130) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-2. ❗️ Opened issue [#130](https://github.com/mezgoodle/SQL/issues/130) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-3. 🗣 Commented on [#1](https://github.com/mezidia/mezidia-inspector/issues/1) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
-4. 🗣 Commented on [#2](https://github.com/mezidia/mezidia-inspector/issues/2) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
-5. ❗️ Closed issue [#14](https://github.com/mezidia/roadmap/issues/14) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+1. 🎉 Merged PR [#25](https://github.com/mezgoodle/images/pull/25) in [mezgoodle/images](https://github.com/mezgoodle/images)
+2. 🗣 Commented on [#131](https://github.com/mezgoodle/SQL/issues/131) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+3. ❗️ Opened issue [#131](https://github.com/mezgoodle/SQL/issues/131) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+4. ❗️ Closed issue [#130](https://github.com/mezgoodle/SQL/issues/130) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+5. ❗️ Opened issue [#130](https://github.com/mezgoodle/SQL/issues/130) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
 <!--END_SECTION:activity-->
 
 </details>
