@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/mezgoodle/images/pull/25) in [mezgoodle/images](https://github.com/mezgoodle/images)
-2. 🗣 Commented on [#131](https://github.com/mezgoodle/SQL/issues/131) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-3. ❗️ Opened issue [#131](https://github.com/mezgoodle/SQL/issues/131) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-4. ❗️ Closed issue [#130](https://github.com/mezgoodle/SQL/issues/130) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-5. ❗️ Opened issue [#130](https://github.com/mezgoodle/SQL/issues/130) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+1. 🎉 Merged PR [#2](https://github.com/mezgoodle/django-vue-blog/pull/2) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+2. 🎉 Merged PR [#1](https://github.com/mezgoodle/django-vue-blog/pull/1) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+3. 🎉 Merged PR [#3](https://github.com/mezgoodle/django-vue-blog/pull/3) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+4. 🎉 Merged PR [#9](https://github.com/mezgoodle/django-tutorial/pull/9) in [mezgoodle/django-tutorial](https://github.com/mezgoodle/django-tutorial)
+5. 🎉 Merged PR [#25](https://github.com/mezgoodle/images/pull/25) in [mezgoodle/images](https://github.com/mezgoodle/images)
 <!--END_SECTION:activity-->
 
 </details>
