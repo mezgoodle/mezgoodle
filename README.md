@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mezgoodle/django-vue-blog/issues/4) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-2. ❗️ Opened issue [#22](https://github.com/mezidia/roadmap/issues/22) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-3. ❗️ Closed issue [#18](https://github.com/mezidia/roadmap/issues/18) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-4. 🎉 Merged PR [#2](https://github.com/mezgoodle/django-vue-blog/pull/2) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-5. 🎉 Merged PR [#1](https://github.com/mezgoodle/django-vue-blog/pull/1) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+1. 🗣 Commented on [#3](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman/issues/3) in [Dmytrenko-Roman/Dmytrenko-Roman](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman)
+2. 🗣 Commented on [#3](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman/issues/3) in [Dmytrenko-Roman/Dmytrenko-Roman](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman)
+3. ❗️ Opened issue [#1](https://github.com/mezgoodle/Test/issues/1) in [mezgoodle/Test](https://github.com/mezgoodle/Test)
+4. 🗣 Commented on [#4](https://github.com/mezgoodle/django-vue-blog/issues/4) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+5. ❗️ Opened issue [#22](https://github.com/mezidia/roadmap/issues/22) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
 <!--END_SECTION:activity-->
 
 </details>
