@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/mezidia/Telegramia/pull/10) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
-2. 🗣 Commented on [#3](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman/issues/3) in [Dmytrenko-Roman/Dmytrenko-Roman](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman)
-3. 🗣 Commented on [#3](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman/issues/3) in [Dmytrenko-Roman/Dmytrenko-Roman](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman)
-4. ❗️ Opened issue [#1](https://github.com/mezgoodle/Test/issues/1) in [mezgoodle/Test](https://github.com/mezgoodle/Test)
-5. 🗣 Commented on [#4](https://github.com/mezgoodle/django-vue-blog/issues/4) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+1. ❌ Closed PR [#51](https://github.com/mezidia/song-helper/pull/51) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+2. 🗣 Commented on [#51](https://github.com/mezidia/song-helper/issues/51) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. 🗣 Commented on [#20](https://github.com/mezidia/roadmap/issues/20) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+4. 💪 Opened PR [#10](https://github.com/mezidia/Telegramia/pull/10) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
+5. 🗣 Commented on [#3](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman/issues/3) in [Dmytrenko-Roman/Dmytrenko-Roman](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman)
 <!--END_SECTION:activity-->
 
 </details>
