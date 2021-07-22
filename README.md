@@ -21,19 +21,27 @@
 
 <h3 align="left">My stack:</h3>
 <p align="left"> 
-  <a href="https://v3.vuejs.org/" target="_blank">
+  <a href="https://v3.vuejs.org/" target="_blank" title="Vue JS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
+  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+  <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="Fast API">
+    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" title="Mongo DB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://docs.aiogram.dev/en/latest/" target="_blank" title="Aiogram">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="aiogram" width="40" height="40"/>
+  </a>
 </p>
+
+ADD Fast API and Telegram
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
