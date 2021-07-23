@@ -47,11 +47,11 @@ ADD Fast API and Telegram
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#51](https://github.com/mezidia/song-helper/pull/51) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-2. 🗣 Commented on [#51](https://github.com/mezidia/song-helper/issues/51) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. 🗣 Commented on [#20](https://github.com/mezidia/roadmap/issues/20) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-4. 💪 Opened PR [#10](https://github.com/mezidia/Telegramia/pull/10) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
-5. 🗣 Commented on [#3](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman/issues/3) in [Dmytrenko-Roman/Dmytrenko-Roman](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman)
+1. 🗣 Commented on [#10](https://github.com/mezidia/Telegramia/issues/10) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
+2. 🎉 Merged PR [#95](https://github.com/mezidia/song-helper/pull/95) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. ❌ Closed PR [#93](https://github.com/mezidia/song-helper/pull/93) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+4. ❌ Closed PR [#94](https://github.com/mezidia/song-helper/pull/94) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+5. 🗣 Commented on [#94](https://github.com/mezidia/song-helper/issues/94) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
 
 </details>
