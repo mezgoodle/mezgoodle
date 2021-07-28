@@ -41,8 +41,6 @@
   </a>
 </p>
 
-ADD Fast API and Telegram
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
