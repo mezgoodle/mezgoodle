@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/mezgoodle/images/pull/27) in [mezgoodle/images](https://github.com/mezgoodle/images)
-2. 🎉 Merged PR [#26](https://github.com/mezgoodle/images/pull/26) in [mezgoodle/images](https://github.com/mezgoodle/images)
-3. 🗣 Commented on [#26](https://github.com/mezgoodle/images/issues/26) in [mezgoodle/images](https://github.com/mezgoodle/images)
-4. 🗣 Commented on [#10](https://github.com/mezidia/Telegramia/issues/10) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
-5. 🎉 Merged PR [#95](https://github.com/mezidia/song-helper/pull/95) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. 🎉 Merged PR [#5](https://github.com/mezgoodle/django-vue-blog/pull/5) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+2. 🎉 Merged PR [#7](https://github.com/mezgoodle/django-vue-blog/pull/7) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+3. 🎉 Merged PR [#8](https://github.com/mezgoodle/django-vue-blog/pull/8) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+4. 🎉 Merged PR [#9](https://github.com/mezgoodle/django-vue-blog/pull/9) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+5. ❌ Closed PR [#8](https://github.com/mezgoodle/github-helper/pull/8) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
 <!--END_SECTION:activity-->
 
 </details>
