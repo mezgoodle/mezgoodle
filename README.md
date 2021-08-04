@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mezgoodle/django-vue-blog/pull/5) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-2. 🎉 Merged PR [#7](https://github.com/mezgoodle/django-vue-blog/pull/7) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-3. 🎉 Merged PR [#8](https://github.com/mezgoodle/django-vue-blog/pull/8) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-4. 🎉 Merged PR [#9](https://github.com/mezgoodle/django-vue-blog/pull/9) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-5. ❌ Closed PR [#8](https://github.com/mezgoodle/github-helper/pull/8) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+1. 🎉 Merged PR [#6](https://github.com/mezgoodle/django-vue-blog/pull/6) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+2. 🎉 Merged PR [#5](https://github.com/mezgoodle/django-vue-blog/pull/5) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+3. 🎉 Merged PR [#7](https://github.com/mezgoodle/django-vue-blog/pull/7) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+4. 🎉 Merged PR [#8](https://github.com/mezgoodle/django-vue-blog/pull/8) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+5. 🎉 Merged PR [#9](https://github.com/mezgoodle/django-vue-blog/pull/9) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
 <!--END_SECTION:activity-->
 
 </details>
