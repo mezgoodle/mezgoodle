@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/mezgoodle/django-vue-blog/pull/6) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-2. 🎉 Merged PR [#5](https://github.com/mezgoodle/django-vue-blog/pull/5) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-3. 🎉 Merged PR [#7](https://github.com/mezgoodle/django-vue-blog/pull/7) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-4. 🎉 Merged PR [#8](https://github.com/mezgoodle/django-vue-blog/pull/8) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-5. 🎉 Merged PR [#9](https://github.com/mezgoodle/django-vue-blog/pull/9) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+1. ❌ Closed PR [#96](https://github.com/mezidia/song-helper/pull/96) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+2. ❌ Closed PR [#97](https://github.com/mezidia/song-helper/pull/97) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. ❌ Closed PR [#98](https://github.com/mezidia/song-helper/pull/98) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+4. ❌ Closed PR [#99](https://github.com/mezidia/song-helper/pull/99) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+5. ❌ Closed PR [#100](https://github.com/mezidia/song-helper/pull/100) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
 
 </details>
