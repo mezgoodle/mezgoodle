@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#96](https://github.com/mezidia/song-helper/pull/96) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-2. ❌ Closed PR [#97](https://github.com/mezidia/song-helper/pull/97) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. ❌ Closed PR [#98](https://github.com/mezidia/song-helper/pull/98) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-4. ❌ Closed PR [#99](https://github.com/mezidia/song-helper/pull/99) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-5. ❌ Closed PR [#100](https://github.com/mezidia/song-helper/pull/100) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. ❗️ Opened issue [#6](https://github.com/mezgoodle/Telegramia-API/issues/6) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+2. ❌ Closed PR [#101](https://github.com/mezidia/song-helper/pull/101) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. 🎉 Merged PR [#1](https://github.com/mezidia/Wry-Translator/pull/1) in [mezidia/Wry-Translator](https://github.com/mezidia/Wry-Translator)
+4. ❌ Closed PR [#96](https://github.com/mezidia/song-helper/pull/96) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+5. ❌ Closed PR [#97](https://github.com/mezidia/song-helper/pull/97) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
 
 </details>
