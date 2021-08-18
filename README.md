@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/mezgoodle/Telegramia-API/issues/6) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-2. ❌ Closed PR [#101](https://github.com/mezidia/song-helper/pull/101) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. 🎉 Merged PR [#1](https://github.com/mezidia/Wry-Translator/pull/1) in [mezidia/Wry-Translator](https://github.com/mezidia/Wry-Translator)
-4. ❌ Closed PR [#96](https://github.com/mezidia/song-helper/pull/96) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-5. ❌ Closed PR [#97](https://github.com/mezidia/song-helper/pull/97) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. 🎉 Merged PR [#1](https://github.com/mezgoodle/opencv-tutorial/pull/1) in [mezgoodle/opencv-tutorial](https://github.com/mezgoodle/opencv-tutorial)
+2. 🎉 Merged PR [#145](https://github.com/mezgoodle/weather-bot/pull/145) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+3. ❗️ Opened issue [#6](https://github.com/mezgoodle/Telegramia-API/issues/6) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+4. ❌ Closed PR [#101](https://github.com/mezidia/song-helper/pull/101) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+5. 🎉 Merged PR [#1](https://github.com/mezidia/Wry-Translator/pull/1) in [mezidia/Wry-Translator](https://github.com/mezidia/Wry-Translator)
 <!--END_SECTION:activity-->
 
 </details>
