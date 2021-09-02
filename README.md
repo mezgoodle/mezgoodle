@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/mezgoodle/Telegramia-API/pull/8) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-2. ❌ Closed PR [#9](https://github.com/mezgoodle/Telegramia-API/pull/9) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-3. 🎉 Merged PR [#1](https://github.com/mezgoodle/opencv-tutorial/pull/1) in [mezgoodle/opencv-tutorial](https://github.com/mezgoodle/opencv-tutorial)
-4. 🎉 Merged PR [#145](https://github.com/mezgoodle/weather-bot/pull/145) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-5. ❗️ Opened issue [#6](https://github.com/mezgoodle/Telegramia-API/issues/6) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+1. ❌ Closed PR [#11](https://github.com/mezgoodle/github-helper/pull/11) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+2. ❌ Closed PR [#10](https://github.com/mezgoodle/github-helper/pull/10) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+3. 🎉 Merged PR [#11](https://github.com/mezgoodle/django-vue-blog/pull/11) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+4. 🎉 Merged PR [#12](https://github.com/mezgoodle/django-vue-blog/pull/12) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
+5. ❌ Closed PR [#1](https://github.com/mezgoodle/TelegramiaStats/pull/1) in [mezgoodle/TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats)
 <!--END_SECTION:activity-->
 
 </details>
