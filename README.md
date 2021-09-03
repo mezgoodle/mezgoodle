@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/mezgoodle/github-helper/pull/11) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-2. ❌ Closed PR [#10](https://github.com/mezgoodle/github-helper/pull/10) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-3. 🎉 Merged PR [#11](https://github.com/mezgoodle/django-vue-blog/pull/11) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-4. 🎉 Merged PR [#12](https://github.com/mezgoodle/django-vue-blog/pull/12) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-5. ❌ Closed PR [#1](https://github.com/mezgoodle/TelegramiaStats/pull/1) in [mezgoodle/TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats)
+1. ❗️ Closed issue [#16](https://github.com/mezidia/roadmap/issues/16) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+2. ❗️ Closed issue [#10](https://github.com/mezidia/roadmap/issues/10) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+3. 🗣 Commented on [#10](https://github.com/mezidia/roadmap/issues/10) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+4. ❌ Closed PR [#11](https://github.com/mezgoodle/github-helper/pull/11) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+5. ❌ Closed PR [#10](https://github.com/mezgoodle/github-helper/pull/10) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
 <!--END_SECTION:activity-->
 
 </details>
