@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mezgoodle/BCD_labs/pull/1) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
-2. ❗️ Opened issue [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-3. ❗️ Closed issue [#16](https://github.com/mezidia/roadmap/issues/16) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-4. ❗️ Closed issue [#10](https://github.com/mezidia/roadmap/issues/10) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-5. 🗣 Commented on [#10](https://github.com/mezidia/roadmap/issues/10) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+1. 🎉 Merged PR [#3](https://github.com/mezidia/mezidia/pull/3) in [mezidia/mezidia](https://github.com/mezidia/mezidia)
+2. 💪 Opened PR [#3](https://github.com/mezidia/mezidia/pull/3) in [mezidia/mezidia](https://github.com/mezidia/mezidia)
+3. 🎉 Merged PR [#1](https://github.com/mezgoodle/BCD_labs/pull/1) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
+4. ❗️ Opened issue [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+5. ❗️ Closed issue [#16](https://github.com/mezidia/roadmap/issues/16) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
 <!--END_SECTION:activity-->
 
 </details>
