@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/mezidia/medivac/pull/2) in [mezidia/medivac](https://github.com/mezidia/medivac)
-2. 💪 Opened PR [#1](https://github.com/mezidia/medivac/pull/1) in [mezidia/medivac](https://github.com/mezidia/medivac)
-3. 🗣 Commented on [#1748](https://github.com/tiangolo/fastapi/issues/1748) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-4. 🗣 Commented on [#1748](https://github.com/tiangolo/fastapi/issues/1748) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-5. ❌ Closed PR [#2](https://github.com/mezgoodle/TelegramiaStats/pull/2) in [mezgoodle/TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats)
+1. 🗣 Commented on [#2](https://github.com/mezidia/medivac/issues/2) in [mezidia/medivac](https://github.com/mezidia/medivac)
+2. 🎉 Merged PR [#148](https://github.com/mezgoodle/weather-bot/pull/148) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+3. 💪 Opened PR [#2](https://github.com/mezidia/medivac/pull/2) in [mezidia/medivac](https://github.com/mezidia/medivac)
+4. 💪 Opened PR [#1](https://github.com/mezidia/medivac/pull/1) in [mezidia/medivac](https://github.com/mezidia/medivac)
+5. 🗣 Commented on [#1748](https://github.com/tiangolo/fastapi/issues/1748) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 <!--END_SECTION:activity-->
 
 </details>
