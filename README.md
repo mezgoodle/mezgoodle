@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/mezidia/medivac/pull/7) in [mezidia/medivac](https://github.com/mezidia/medivac)
-2. 🎉 Merged PR [#3](https://github.com/mezidia/medivac/pull/3) in [mezidia/medivac](https://github.com/mezidia/medivac)
-3. 💪 Opened PR [#5](https://github.com/mezidia/medivac/pull/5) in [mezidia/medivac](https://github.com/mezidia/medivac)
-4. 🎉 Merged PR [#2](https://github.com/mezidia/medivac/pull/2) in [mezidia/medivac](https://github.com/mezidia/medivac)
-5. 🎉 Merged PR [#1](https://github.com/mezidia/medivac/pull/1) in [mezidia/medivac](https://github.com/mezidia/medivac)
+1. 🎉 Merged PR [#5](https://github.com/mezidia/medivac/pull/5) in [mezidia/medivac](https://github.com/mezidia/medivac)
+2. 🗣 Commented on [#5](https://github.com/mezidia/medivac/issues/5) in [mezidia/medivac](https://github.com/mezidia/medivac)
+3. 💪 Opened PR [#7](https://github.com/mezidia/medivac/pull/7) in [mezidia/medivac](https://github.com/mezidia/medivac)
+4. 🎉 Merged PR [#3](https://github.com/mezidia/medivac/pull/3) in [mezidia/medivac](https://github.com/mezidia/medivac)
+5. 💪 Opened PR [#5](https://github.com/mezidia/medivac/pull/5) in [mezidia/medivac](https://github.com/mezidia/medivac)
 <!--END_SECTION:activity-->
 
 </details>
