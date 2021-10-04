@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mezidia/medivac/pull/5) in [mezidia/medivac](https://github.com/mezidia/medivac)
-2. 🗣 Commented on [#5](https://github.com/mezidia/medivac/issues/5) in [mezidia/medivac](https://github.com/mezidia/medivac)
-3. 💪 Opened PR [#7](https://github.com/mezidia/medivac/pull/7) in [mezidia/medivac](https://github.com/mezidia/medivac)
-4. 🎉 Merged PR [#3](https://github.com/mezidia/medivac/pull/3) in [mezidia/medivac](https://github.com/mezidia/medivac)
-5. 💪 Opened PR [#5](https://github.com/mezidia/medivac/pull/5) in [mezidia/medivac](https://github.com/mezidia/medivac)
+1. 🎉 Merged PR [#14](https://github.com/mezidia/medivac/pull/14) in [mezidia/medivac](https://github.com/mezidia/medivac)
+2. 💪 Opened PR [#14](https://github.com/mezidia/medivac/pull/14) in [mezidia/medivac](https://github.com/mezidia/medivac)
+3. 🎉 Merged PR [#7](https://github.com/mezgoodle/TelegramiaStats/pull/7) in [mezgoodle/TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats)
+4. 🎉 Merged PR [#2](https://github.com/mezgoodle/BCD_labs/pull/2) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
+5. 🎉 Merged PR [#2](https://github.com/mezgoodle/ad_labs/pull/2) in [mezgoodle/ad_labs](https://github.com/mezgoodle/ad_labs)
 <!--END_SECTION:activity-->
 
 </details>
