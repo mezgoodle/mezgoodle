@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/mezidia/roadmap/issues/15) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-2. ❌ Closed PR [#115](https://github.com/mezidia/song-helper/pull/115) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. ❌ Closed PR [#114](https://github.com/mezidia/song-helper/pull/114) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-4. ❌ Closed PR [#113](https://github.com/mezidia/song-helper/pull/113) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-5. ❌ Closed PR [#112](https://github.com/mezidia/song-helper/pull/112) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. ❌ Closed PR [#3973](https://github.com/tiangolo/fastapi/pull/3973) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+2. 💪 Opened PR [#4037](https://github.com/tiangolo/fastapi/pull/4037) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+3. 🎉 Merged PR [#10](https://github.com/mezgoodle/django-tutorial/pull/10) in [mezgoodle/django-tutorial](https://github.com/mezgoodle/django-tutorial)
+4. 🎉 Merged PR [#152](https://github.com/mezgoodle/weather-bot/pull/152) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+5. ❗️ Closed issue [#15](https://github.com/mezidia/roadmap/issues/15) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
 <!--END_SECTION:activity-->
 
 </details>
