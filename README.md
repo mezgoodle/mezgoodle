@@ -16,6 +16,7 @@
 - ⚡ Fun fact: copy ninja is the best.
 - 🎵 I love _Linkin Park_.
 - 🖊️ My nicknames: @sylvenis and @mezgoodle.
+- ⭐ My best projects: ...
 
 <hr>
 
