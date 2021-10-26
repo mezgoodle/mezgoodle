@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/mezgoodle/weather-bot/pull/153) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-2. 💪 Opened PR [#153](https://github.com/mezgoodle/weather-bot/pull/153) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-3. ❌ Closed PR [#3973](https://github.com/tiangolo/fastapi/pull/3973) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-4. 💪 Opened PR [#4037](https://github.com/tiangolo/fastapi/pull/4037) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-5. 🎉 Merged PR [#10](https://github.com/mezgoodle/django-tutorial/pull/10) in [mezgoodle/django-tutorial](https://github.com/mezgoodle/django-tutorial)
+1. ❗️ Opened issue [#1](https://github.com/mezgoodle/genji-moderator/issues/1) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+2. 🎉 Merged PR [#153](https://github.com/mezgoodle/weather-bot/pull/153) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+3. 💪 Opened PR [#153](https://github.com/mezgoodle/weather-bot/pull/153) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+4. ❌ Closed PR [#3973](https://github.com/tiangolo/fastapi/pull/3973) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+5. 💪 Opened PR [#4037](https://github.com/tiangolo/fastapi/pull/4037) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 <!--END_SECTION:activity-->
 
 </details>
