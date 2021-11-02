@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/mezgoodle/genji-moderator/issues/1) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-2. 🎉 Merged PR [#153](https://github.com/mezgoodle/weather-bot/pull/153) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-3. 💪 Opened PR [#153](https://github.com/mezgoodle/weather-bot/pull/153) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-4. ❌ Closed PR [#3973](https://github.com/tiangolo/fastapi/pull/3973) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-5. 💪 Opened PR [#4037](https://github.com/tiangolo/fastapi/pull/4037) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+1. ❌ Closed PR [#19](https://github.com/mezgoodle/github-helper/pull/19) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+2. ❌ Closed PR [#154](https://github.com/mezgoodle/weather-bot/pull/154) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+3. ❌ Closed PR [#20](https://github.com/mezgoodle/github-helper/pull/20) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+4. ❌ Closed PR [#21](https://github.com/mezgoodle/Telegramia-API/pull/21) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+5. ❌ Closed PR [#22](https://github.com/mezgoodle/Telegramia-API/pull/22) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
 <!--END_SECTION:activity-->
 
 </details>
