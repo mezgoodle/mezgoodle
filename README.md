@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com/mezgoodle/github-helper/pull/19) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-2. ❌ Closed PR [#154](https://github.com/mezgoodle/weather-bot/pull/154) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-3. ❌ Closed PR [#20](https://github.com/mezgoodle/github-helper/pull/20) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-4. ❌ Closed PR [#21](https://github.com/mezgoodle/Telegramia-API/pull/21) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-5. ❌ Closed PR [#22](https://github.com/mezgoodle/Telegramia-API/pull/22) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+1. 🎉 Merged PR [#20](https://github.com/mezidia/medivac/pull/20) in [mezidia/medivac](https://github.com/mezidia/medivac)
+2. 💪 Opened PR [#10](https://github.com/mezidia/architecture_labs/pull/10) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
+3. ❌ Closed PR [#18](https://github.com/mezidia/medivac/pull/18) in [mezidia/medivac](https://github.com/mezidia/medivac)
+4. ❌ Closed PR [#17](https://github.com/mezidia/medivac/pull/17) in [mezidia/medivac](https://github.com/mezidia/medivac)
+5. ❌ Closed PR [#16](https://github.com/mezidia/medivac/pull/16) in [mezidia/medivac](https://github.com/mezidia/medivac)
 <!--END_SECTION:activity-->
 
 </details>
