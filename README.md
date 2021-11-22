@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/mezgoodle/BCD_labs/pull/3) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
-2. 🎉 Merged PR [#20](https://github.com/mezidia/medivac/pull/20) in [mezidia/medivac](https://github.com/mezidia/medivac)
-3. 💪 Opened PR [#10](https://github.com/mezidia/architecture_labs/pull/10) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
-4. ❌ Closed PR [#18](https://github.com/mezidia/medivac/pull/18) in [mezidia/medivac](https://github.com/mezidia/medivac)
-5. ❌ Closed PR [#17](https://github.com/mezidia/medivac/pull/17) in [mezidia/medivac](https://github.com/mezidia/medivac)
+1. 🎉 Merged PR [#12](https://github.com/mezidia/architecture_labs/pull/12) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
+2. 💪 Opened PR [#12](https://github.com/mezidia/architecture_labs/pull/12) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
+3. ❌ Closed PR [#3](https://github.com/mezgoodle/BCD_labs/pull/3) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
+4. 🎉 Merged PR [#20](https://github.com/mezidia/medivac/pull/20) in [mezidia/medivac](https://github.com/mezidia/medivac)
+5. 💪 Opened PR [#10](https://github.com/mezidia/architecture_labs/pull/10) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
 <!--END_SECTION:activity-->
 
 </details>
