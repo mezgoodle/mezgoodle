@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/mezidia/architecture_labs/pull/12) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
-2. 💪 Opened PR [#12](https://github.com/mezidia/architecture_labs/pull/12) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
-3. ❌ Closed PR [#3](https://github.com/mezgoodle/BCD_labs/pull/3) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
-4. 🎉 Merged PR [#20](https://github.com/mezidia/medivac/pull/20) in [mezidia/medivac](https://github.com/mezidia/medivac)
-5. 💪 Opened PR [#10](https://github.com/mezidia/architecture_labs/pull/10) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
+1. ❌ Closed PR [#11](https://github.com/mezidia/mezidia-inspector/pull/11) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+2. 🎉 Merged PR [#9](https://github.com/mezidia/mezidia-inspector/pull/9) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+3. 🎉 Merged PR [#10](https://github.com/mezidia/mezidia-inspector/pull/10) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+4. 🎉 Merged PR [#13](https://github.com/mezidia/mezidia-inspector/pull/13) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+5. 🎉 Merged PR [#12](https://github.com/mezidia/mezidia-inspector/pull/12) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
 <!--END_SECTION:activity-->
 
 </details>
