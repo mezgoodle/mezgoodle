@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#123](https://github.com/mezidia/song-helper/pull/123) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-2. ❌ Closed PR [#122](https://github.com/mezidia/song-helper/pull/122) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. ❌ Closed PR [#121](https://github.com/mezidia/song-helper/pull/121) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-4. ❌ Closed PR [#119](https://github.com/mezidia/song-helper/pull/119) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-5. ❌ Closed PR [#120](https://github.com/mezidia/song-helper/pull/120) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. 🎉 Merged PR [#5](https://github.com/mezgoodle/BCD_labs/pull/5) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
+2. ❌ Closed PR [#123](https://github.com/mezidia/song-helper/pull/123) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. ❌ Closed PR [#122](https://github.com/mezidia/song-helper/pull/122) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+4. ❌ Closed PR [#121](https://github.com/mezidia/song-helper/pull/121) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+5. ❌ Closed PR [#119](https://github.com/mezidia/song-helper/pull/119) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
 
 </details>
