@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/mezidia/architecture_labs/pull/16) in [mezidia/architecture_labs](https://github.com/mezidia/architecture_labs)
-2. 🎉 Merged PR [#6](https://github.com/mezgoodle/BCD_labs/pull/6) in [mezgoodle/BCD_labs](https://github.com/mezgoodle/BCD_labs)
-3. ❌ Closed PR [#128](https://github.com/mezidia/song-helper/pull/128) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-4. ❌ Closed PR [#127](https://github.com/mezidia/song-helper/pull/127) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-5. ❌ Closed PR [#126](https://github.com/mezidia/song-helper/pull/126) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. ❗️ Closed issue [#10](https://github.com/mezgoodle/auto-formatter/issues/10) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+2. 🗣 Commented on [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+3. 🗣 Commented on [#21](https://github.com/mezidia/roadmap/issues/21) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+4. ❗️ Closed issue [#6](https://github.com/mezidia/roadmap/issues/6) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+5. 🗣 Commented on [#6](https://github.com/mezidia/roadmap/issues/6) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
 <!--END_SECTION:activity-->
 
 </details>
