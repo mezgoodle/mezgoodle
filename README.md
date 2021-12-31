@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/mezgoodle/auto-formatter/issues/10) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
-2. 🗣 Commented on [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-3. 🗣 Commented on [#21](https://github.com/mezidia/roadmap/issues/21) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-4. ❗️ Closed issue [#6](https://github.com/mezidia/roadmap/issues/6) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-5. 🗣 Commented on [#6](https://github.com/mezidia/roadmap/issues/6) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+1. ❌ Closed PR [#3](https://github.com/mezidia/Shortcut/pull/3) in [mezidia/Shortcut](https://github.com/mezidia/Shortcut)
+2. ❗️ Closed issue [#2](https://github.com/mezidia/Shortcut/issues/2) in [mezidia/Shortcut](https://github.com/mezidia/Shortcut)
+3. 🗣 Commented on [#2](https://github.com/mezidia/Shortcut/issues/2) in [mezidia/Shortcut](https://github.com/mezidia/Shortcut)
+4. 🗣 Commented on [#21](https://github.com/mezidia/roadmap/issues/21) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+5. ❗️ Closed issue [#10](https://github.com/mezgoodle/auto-formatter/issues/10) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
 <!--END_SECTION:activity-->
 
 </details>
