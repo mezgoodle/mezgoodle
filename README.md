@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/mezidia/Shortcut/pull/3) in [mezidia/Shortcut](https://github.com/mezidia/Shortcut)
-2. ❗️ Closed issue [#2](https://github.com/mezidia/Shortcut/issues/2) in [mezidia/Shortcut](https://github.com/mezidia/Shortcut)
-3. 🗣 Commented on [#2](https://github.com/mezidia/Shortcut/issues/2) in [mezidia/Shortcut](https://github.com/mezidia/Shortcut)
-4. 🗣 Commented on [#21](https://github.com/mezidia/roadmap/issues/21) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-5. ❗️ Closed issue [#10](https://github.com/mezgoodle/auto-formatter/issues/10) in [mezgoodle/auto-formatter](https://github.com/mezgoodle/auto-formatter)
+1. ❌ Closed PR [#30](https://github.com/mezgoodle/Telegramia-API/pull/30) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+2. ❌ Closed PR [#27](https://github.com/mezgoodle/github-helper/pull/27) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+3. ❌ Closed PR [#28](https://github.com/mezgoodle/github-helper/pull/28) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+4. ❌ Closed PR [#31](https://github.com/mezgoodle/Telegramia-API/pull/31) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+5. 🎉 Merged PR [#34](https://github.com/mezgoodle/django-vue-blog/pull/34) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
 <!--END_SECTION:activity-->
 
 </details>
