@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/mezgoodle/images/pull/29) in [mezgoodle/images](https://github.com/mezgoodle/images)
-2. ❗️ Closed issue [#1](https://github.com/mezgoodle/genji-moderator/issues/1) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-3. ❌ Closed PR [#26](https://github.com/mezgoodle/github-helper/pull/26) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-4. ❌ Closed PR [#30](https://github.com/mezgoodle/Telegramia-API/pull/30) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-5. ❌ Closed PR [#27](https://github.com/mezgoodle/github-helper/pull/27) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+1. 🎉 Merged PR [#18](https://github.com/mezgoodle/ad_labs/pull/18) in [mezgoodle/ad_labs](https://github.com/mezgoodle/ad_labs)
+2. 🎉 Merged PR [#29](https://github.com/mezgoodle/images/pull/29) in [mezgoodle/images](https://github.com/mezgoodle/images)
+3. ❗️ Closed issue [#1](https://github.com/mezgoodle/genji-moderator/issues/1) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+4. ❌ Closed PR [#26](https://github.com/mezgoodle/github-helper/pull/26) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+5. ❌ Closed PR [#30](https://github.com/mezgoodle/Telegramia-API/pull/30) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
 <!--END_SECTION:activity-->
 
 </details>
