@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/mezgoodle/django-vue-blog/pull/40) in [mezgoodle/django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
-2. 🎉 Merged PR [#18](https://github.com/mezgoodle/ad_labs/pull/18) in [mezgoodle/ad_labs](https://github.com/mezgoodle/ad_labs)
-3. 🎉 Merged PR [#29](https://github.com/mezgoodle/images/pull/29) in [mezgoodle/images](https://github.com/mezgoodle/images)
-4. ❗️ Closed issue [#1](https://github.com/mezgoodle/genji-moderator/issues/1) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-5. ❌ Closed PR [#26](https://github.com/mezgoodle/github-helper/pull/26) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+1. ❗️ Opened issue [#6](https://github.com/mezidia/mezidia_tracker/issues/6) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+2. 🗣 Commented on [#79](https://github.com/mezgoodle/SQL/issues/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+3. 🗣 Commented on [#79](https://github.com/mezgoodle/SQL/issues/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+4. 🗣 Commented on [#132](https://github.com/mezgoodle/SQL/issues/132) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+5. 💪 Opened PR [#132](https://github.com/mezgoodle/SQL/pull/132) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
 <!--END_SECTION:activity-->
 
 </details>
