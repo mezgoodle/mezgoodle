@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/mezidia/mezidia_tracker/issues/6) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-2. 🗣 Commented on [#79](https://github.com/mezgoodle/SQL/issues/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-3. 🗣 Commented on [#79](https://github.com/mezgoodle/SQL/issues/79) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-4. 🗣 Commented on [#132](https://github.com/mezgoodle/SQL/issues/132) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
-5. 💪 Opened PR [#132](https://github.com/mezgoodle/SQL/pull/132) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+1. ❗️ Opened issue [#11](https://github.com/mezidia/mezidia_tracker/issues/11) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+2. ❗️ Closed issue [#33](https://github.com/mezgoodle/SQL/issues/33) in [mezgoodle/SQL](https://github.com/mezgoodle/SQL)
+3. ❗️ Opened issue [#10](https://github.com/mezidia/mezidia_tracker/issues/10) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+4. 🗣 Commented on [#9](https://github.com/mezidia/mezidia_tracker/issues/9) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+5. ❗️ Opened issue [#9](https://github.com/mezidia/mezidia_tracker/issues/9) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
 <!--END_SECTION:activity-->
 
 </details>
