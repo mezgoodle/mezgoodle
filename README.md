@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/mezidia/mezidia_tracker/issues/13) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-2. ❗️ Opened issue [#12](https://github.com/mezidia/mezidia_tracker/issues/12) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-3. 🎉 Merged PR [#35](https://github.com/mezgoodle/Telegramia-API/pull/35) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-4. 💪 Opened PR [#35](https://github.com/mezgoodle/Telegramia-API/pull/35) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-5. ❗️ Opened issue [#11](https://github.com/mezidia/mezidia_tracker/issues/11) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+1. ❗️ Opened issue [#30](https://github.com/mezidia/Telegramia/issues/30) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
+2. ❗️ Opened issue [#36](https://github.com/mezgoodle/Telegramia-API/issues/36) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+3. ❗️ Opened issue [#13](https://github.com/mezidia/mezidia_tracker/issues/13) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+4. ❗️ Opened issue [#12](https://github.com/mezidia/mezidia_tracker/issues/12) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+5. 🎉 Merged PR [#35](https://github.com/mezgoodle/Telegramia-API/pull/35) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
 <!--END_SECTION:activity-->
 
 </details>
