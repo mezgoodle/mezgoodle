@@ -46,11 +46,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/mezidia/mezidia_tracker/issues/24) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-2. 💪 Opened PR [#24](https://github.com/mezidia/mezidia_tracker/pull/24) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-3. 🎉 Merged PR [#22](https://github.com/mezidia/mezidia_tracker/pull/22) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-4. ❗️ Closed issue [#6](https://github.com/mezidia/mezidia_tracker/issues/6) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-5. 🗣 Commented on [#22](https://github.com/mezidia/mezidia_tracker/issues/22) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+1. ❗️ Closed issue [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+2. ❌ Closed PR [#25](https://github.com/mezidia/mezidia_tracker/pull/25) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+3. ❌ Closed PR [#7](https://github.com/mezidia/mezidia_tracker/pull/7) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+4. ❗️ Closed issue [#21](https://github.com/mezidia/mezidia_tracker/issues/21) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+5. ❗️ Closed issue [#20](https://github.com/mezidia/mezidia_tracker/issues/20) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
 <!--END_SECTION:activity-->
 
 </details>
