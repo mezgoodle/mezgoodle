@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-2. ❌ Closed PR [#25](https://github.com/mezidia/mezidia_tracker/pull/25) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-3. ❌ Closed PR [#7](https://github.com/mezidia/mezidia_tracker/pull/7) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-4. ❗️ Closed issue [#21](https://github.com/mezidia/mezidia_tracker/issues/21) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-5. ❗️ Closed issue [#20](https://github.com/mezidia/mezidia_tracker/issues/20) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+1. 🎉 Merged PR [#11](https://github.com/mezgoodle/portfolio/pull/11) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
+2. 💪 Opened PR [#11](https://github.com/mezgoodle/portfolio/pull/11) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
+3. ❗️ Closed issue [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+4. ❌ Closed PR [#25](https://github.com/mezidia/mezidia_tracker/pull/25) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+5. ❌ Closed PR [#7](https://github.com/mezidia/mezidia_tracker/pull/7) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
 <!--END_SECTION:activity-->
 
 </details>
