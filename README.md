@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning interesting things.
 - 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **FastApi**, **React** and etc.
 - 📫 How to reach me? Write to this address: mezidiaofficial@gmail.com.
-- #️⃣ My [portfolio](https://mezgoodle.netlify.app/).
+- #️⃣ My [portfolio](https://portfolio-mezgoodle.vercel.app/).
 - 🦊 My [fox](https://gitlab.com/mezgoodle).
 - ⚡ Fun fact: copy ninja is the best.
 - 🎵 I love _Linkin Park_.
