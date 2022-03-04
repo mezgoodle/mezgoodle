@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/mezgoodle/portfolio/pull/11) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
-2. 💪 Opened PR [#11](https://github.com/mezgoodle/portfolio/pull/11) in [mezgoodle/portfolio](https://github.com/mezgoodle/portfolio)
-3. ❗️ Closed issue [#23](https://github.com/mezidia/roadmap/issues/23) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-4. ❌ Closed PR [#25](https://github.com/mezidia/mezidia_tracker/pull/25) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
-5. ❌ Closed PR [#7](https://github.com/mezidia/mezidia_tracker/pull/7) in [mezidia/mezidia_tracker](https://github.com/mezidia/mezidia_tracker)
+1. 🎉 Merged PR [#25](https://github.com/mezidia/medivac/pull/25) in [mezidia/medivac](https://github.com/mezidia/medivac)
+2. 🎉 Merged PR [#26](https://github.com/mezidia/medivac/pull/26) in [mezidia/medivac](https://github.com/mezidia/medivac)
+3. 🎉 Merged PR [#31](https://github.com/mezidia/mezidia-inspector/pull/31) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+4. 🎉 Merged PR [#27](https://github.com/mezidia/mezidia-inspector/pull/27) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+5. 🎉 Merged PR [#26](https://github.com/mezidia/mezidia-inspector/pull/26) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
 <!--END_SECTION:activity-->
 
 </details>
