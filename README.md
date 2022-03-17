@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/mezgoodle/images/pull/30) in [mezgoodle/images](https://github.com/mezgoodle/images)
-2. 🎉 Merged PR [#176](https://github.com/mezgoodle/weather-bot/pull/176) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-3. 🎉 Merged PR [#175](https://github.com/mezgoodle/weather-bot/pull/175) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-4. 🎉 Merged PR [#173](https://github.com/mezgoodle/weather-bot/pull/173) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-5. 🎉 Merged PR [#25](https://github.com/mezidia/medivac/pull/25) in [mezidia/medivac](https://github.com/mezidia/medivac)
+1. 🎉 Merged PR [#7](https://github.com/mezgoodle/meziblog/pull/7) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+2. 🎉 Merged PR [#30](https://github.com/mezgoodle/images/pull/30) in [mezgoodle/images](https://github.com/mezgoodle/images)
+3. 🎉 Merged PR [#176](https://github.com/mezgoodle/weather-bot/pull/176) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+4. 🎉 Merged PR [#175](https://github.com/mezgoodle/weather-bot/pull/175) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+5. 🎉 Merged PR [#173](https://github.com/mezgoodle/weather-bot/pull/173) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
 <!--END_SECTION:activity-->
 
 </details>
