@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/mezgoodle/meziblog/pull/7) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-2. 🎉 Merged PR [#30](https://github.com/mezgoodle/images/pull/30) in [mezgoodle/images](https://github.com/mezgoodle/images)
-3. 🎉 Merged PR [#176](https://github.com/mezgoodle/weather-bot/pull/176) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-4. 🎉 Merged PR [#175](https://github.com/mezgoodle/weather-bot/pull/175) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-5. 🎉 Merged PR [#173](https://github.com/mezgoodle/weather-bot/pull/173) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+1. ❌ Closed PR [#6](https://github.com/mezgoodle/meziblog/pull/6) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+2. ❌ Closed PR [#5](https://github.com/mezgoodle/meziblog/pull/5) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+3. ❌ Closed PR [#3](https://github.com/mezgoodle/meziblog/pull/3) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+4. ❌ Closed PR [#4](https://github.com/mezgoodle/meziblog/pull/4) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+5. ❌ Closed PR [#1](https://github.com/mezgoodle/meziblog/pull/1) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
 <!--END_SECTION:activity-->
 
 </details>
