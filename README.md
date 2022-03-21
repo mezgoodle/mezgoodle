@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/mezgoodle/meziblog/pull/6) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-2. ❌ Closed PR [#5](https://github.com/mezgoodle/meziblog/pull/5) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-3. ❌ Closed PR [#3](https://github.com/mezgoodle/meziblog/pull/3) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-4. ❌ Closed PR [#4](https://github.com/mezgoodle/meziblog/pull/4) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-5. ❌ Closed PR [#1](https://github.com/mezgoodle/meziblog/pull/1) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+1. 🎉 Merged PR [#31](https://github.com/mezgoodle/images/pull/31) in [mezgoodle/images](https://github.com/mezgoodle/images)
+2. ❌ Closed PR [#6](https://github.com/mezgoodle/meziblog/pull/6) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+3. ❌ Closed PR [#5](https://github.com/mezgoodle/meziblog/pull/5) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+4. ❌ Closed PR [#3](https://github.com/mezgoodle/meziblog/pull/3) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+5. ❌ Closed PR [#4](https://github.com/mezgoodle/meziblog/pull/4) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
 <!--END_SECTION:activity-->
 
 </details>
