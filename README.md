@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/mezidia/Telegramia/issues/30) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
-2. 🗣 Commented on [#36](https://github.com/mezgoodle/Telegramia-API/issues/36) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-3. ❗️ Opened issue [#35](https://github.com/mezidia/Telegramia/issues/35) in [mezidia/Telegramia](https://github.com/mezidia/Telegramia)
-4. 🎉 Merged PR [#31](https://github.com/mezgoodle/images/pull/31) in [mezgoodle/images](https://github.com/mezgoodle/images)
-5. ❌ Closed PR [#6](https://github.com/mezgoodle/meziblog/pull/6) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+1. 🎉 Merged PR [#32](https://github.com/mezgoodle/images/pull/32) in [mezgoodle/images](https://github.com/mezgoodle/images)
+2. 🎉 Merged PR [#28](https://github.com/mezgoodle/images/pull/28) in [mezgoodle/images](https://github.com/mezgoodle/images)
+3. ❌ Closed PR [#52](https://github.com/mezgoodle/Telegramia-API/pull/52) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+4. ❌ Closed PR [#51](https://github.com/mezgoodle/Telegramia-API/pull/51) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+5. ❌ Closed PR [#50](https://github.com/mezgoodle/Telegramia-API/pull/50) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
 <!--END_SECTION:activity-->
 
 </details>
