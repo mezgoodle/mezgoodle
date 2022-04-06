@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#41](https://github.com/mezgoodle/github-helper/pull/41) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-2. ❌ Closed PR [#42](https://github.com/mezgoodle/github-helper/pull/42) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-3. ❌ Closed PR [#43](https://github.com/mezgoodle/github-helper/pull/43) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-4. ❌ Closed PR [#44](https://github.com/mezgoodle/github-helper/pull/44) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-5. ❌ Closed PR [#45](https://github.com/mezgoodle/github-helper/pull/45) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+1. ❗️ Opened issue [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+2. ❌ Closed PR [#41](https://github.com/mezgoodle/github-helper/pull/41) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+3. ❌ Closed PR [#42](https://github.com/mezgoodle/github-helper/pull/42) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+4. ❌ Closed PR [#43](https://github.com/mezgoodle/github-helper/pull/43) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+5. ❌ Closed PR [#44](https://github.com/mezgoodle/github-helper/pull/44) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
 <!--END_SECTION:activity-->
 
 </details>
