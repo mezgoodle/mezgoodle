@@ -23,7 +23,7 @@
 <h3 align="left">My stack:</h3>
 <p align="left">
   <ul>
-		<li>Backend: <b>Django</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/> and <b>FastApi</b></li>
+		<li>Backend: <b>Django</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> and <b>FastApi</b></li>
 		<li>Frontend: <b>React</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> and <b>NextJS</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></li>
 		<li>Database: <b>SQLite</b> and <b>MongoDB</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></li>
 		<li>Static site generators: <b>Gatsby</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="40" height="40"/></li>
