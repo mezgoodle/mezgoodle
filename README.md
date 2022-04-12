@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/mezgoodle/meziblog/issues/14) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-2. ❗️ Opened issue [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-3. ❌ Closed PR [#41](https://github.com/mezgoodle/github-helper/pull/41) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-4. ❌ Closed PR [#42](https://github.com/mezgoodle/github-helper/pull/42) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-5. ❌ Closed PR [#43](https://github.com/mezgoodle/github-helper/pull/43) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+2. 🗣 Commented on [#14](https://github.com/mezgoodle/meziblog/issues/14) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+3. ❗️ Opened issue [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+4. ❌ Closed PR [#41](https://github.com/mezgoodle/github-helper/pull/41) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+5. ❌ Closed PR [#42](https://github.com/mezgoodle/github-helper/pull/42) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
 <!--END_SECTION:activity-->
 
 </details>
