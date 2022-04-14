@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/mezgoodle/meziblog/issues/14) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-2. 🗣 Commented on [#14](https://github.com/mezgoodle/meziblog/issues/14) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-3. ❗️ Opened issue [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-4. ❌ Closed PR [#41](https://github.com/mezgoodle/github-helper/pull/41) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-5. ❌ Closed PR [#42](https://github.com/mezgoodle/github-helper/pull/42) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+1. 🎉 Merged PR [#28](https://github.com/mezgoodle/genji-moderator/pull/28) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+2. 💪 Opened PR [#28](https://github.com/mezgoodle/genji-moderator/pull/28) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+3. 🎉 Merged PR [#27](https://github.com/mezgoodle/genji-moderator/pull/27) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+4. 💪 Opened PR [#27](https://github.com/mezgoodle/genji-moderator/pull/27) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+5. ❌ Closed PR [#3](https://github.com/mezidia/SeekMe/pull/3) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
 <!--END_SECTION:activity-->
 
 </details>
