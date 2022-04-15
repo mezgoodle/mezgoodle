@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/mezgoodle/genji-moderator/pull/28) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-2. 💪 Opened PR [#28](https://github.com/mezgoodle/genji-moderator/pull/28) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-3. 🎉 Merged PR [#27](https://github.com/mezgoodle/genji-moderator/pull/27) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-4. 💪 Opened PR [#27](https://github.com/mezgoodle/genji-moderator/pull/27) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-5. ❌ Closed PR [#3](https://github.com/mezidia/SeekMe/pull/3) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+1. 🎉 Merged PR [#4](https://github.com/mezidia/SeekMe/pull/4) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+2. 🎉 Merged PR [#28](https://github.com/mezgoodle/genji-moderator/pull/28) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+3. 💪 Opened PR [#28](https://github.com/mezgoodle/genji-moderator/pull/28) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+4. 🎉 Merged PR [#27](https://github.com/mezgoodle/genji-moderator/pull/27) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+5. 💪 Opened PR [#27](https://github.com/mezgoodle/genji-moderator/pull/27) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
 <!--END_SECTION:activity-->
 
 </details>
