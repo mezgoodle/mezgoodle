@@ -29,6 +29,7 @@
 		<li>Database: <b>SQLite</b> and <b>MongoDB</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></li>
 		<li>Static site generators: <b>Gatsby</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="40" height="40"/></li>
 		<li>Telegram bots: <b>Aiogram</b><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></li>
+	  	<li>GitHub apps: <b>Probot</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> and <b>gidgethub</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></li>
   </ul>	
 </p>
 
