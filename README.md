@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maxim Zavalniuk</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maksym Zavalniuk</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mezgoodle.mezgoodle)
 
