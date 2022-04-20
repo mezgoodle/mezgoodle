@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#180](https://github.com/mezgoodle/weather-bot/pull/180) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
-2. ❗️ Opened issue [#6](https://github.com/mezidia/SeekMe/issues/6) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-3. ❗️ Opened issue [#5](https://github.com/mezidia/SeekMe/issues/5) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-4. 🎉 Merged PR [#4](https://github.com/mezidia/SeekMe/pull/4) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-5. 🎉 Merged PR [#28](https://github.com/mezgoodle/genji-moderator/pull/28) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+1. 🗣 Commented on [#15](https://github.com/mezgoodle/meziblog/issues/15) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+2. 🗣 Commented on [#15](https://github.com/mezgoodle/meziblog/issues/15) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+3. 💪 Opened PR [#16](https://github.com/mezgoodle/meziblog/pull/16) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+4. 💪 Opened PR [#180](https://github.com/mezgoodle/weather-bot/pull/180) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+5. ❗️ Opened issue [#6](https://github.com/mezidia/SeekMe/issues/6) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
 <!--END_SECTION:activity-->
 
 </details>
