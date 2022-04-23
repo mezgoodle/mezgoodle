@@ -17,7 +17,7 @@
 - 🎵 I love _Linkin Park_.
 - 🖊️ My nicknames: @sylvenis and @mezgoodle.
 - ⭐ My best projects: [song-helper](https://github.com/mezidia/song-helper), [auto-formatter](https://github.com/mezgoodle/auto-formatter), [weather-bot](https://github.com/mezgoodle/weather-bot), [github-helper](https://github.com/mezgoodle/github-helper), [genji-moderator](https://github.com/mezgoodle/genji-moderator), [TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats), [Telegramia-API](https://github.com/mezgoodle/Telegramia-API), [TOC-generator](https://github.com/mezgoodle/TOC-generator), [mezidia_tracker](https://github.com/mezidia/mezidia_tracker), [mezidia-inspector](https://github.com/mezidia/mezidia-inspector), [Telegramia](https://github.com/mezidia/Telegramia), [meziblog](https://github.com/mezgoodle/meziblog).
-- 📖 My certificates: [household waste](https://github.com/mezgoodle/mezgoodle/blob/master/certificates/household_waste.pdf), [it product from scratch](https://github.com/mezgoodle/mezgoodle/blob/master/certificates/it_product_from_scratch.pdf), [cs50](https://github.com/mezgoodle/mezgoodle/blob/master/certificates/cs50.pdf), [english_for_carrer](https://github.com/mezgoodle/mezgoodle/blob/master/certificates/english_for_carrer.pdf).
+- 📖 My certificates: [here](https://github.com/mezgoodle/mezgoodle/tree/master/certificates).
 
 <hr>
 
