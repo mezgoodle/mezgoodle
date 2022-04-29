@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/mezidia/SeekMe/issues/6) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-2. 🗣 Commented on [#5](https://github.com/mezidia/SeekMe/issues/5) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-3. 🎉 Merged PR [#16](https://github.com/mezgoodle/meziblog/pull/16) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-4. ❗️ Closed issue [#15](https://github.com/mezgoodle/meziblog/issues/15) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-5. 🎉 Merged PR [#180](https://github.com/mezgoodle/weather-bot/pull/180) in [mezgoodle/weather-bot](https://github.com/mezgoodle/weather-bot)
+1. ❗️ Opened issue [#1](https://github.com/mezgoodle/bot_template/issues/1) in [mezgoodle/bot_template](https://github.com/mezgoodle/bot_template)
+2. 🗣 Commented on [#6](https://github.com/mezidia/SeekMe/issues/6) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+3. 🗣 Commented on [#5](https://github.com/mezidia/SeekMe/issues/5) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+4. 🎉 Merged PR [#16](https://github.com/mezgoodle/meziblog/pull/16) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+5. ❗️ Closed issue [#15](https://github.com/mezgoodle/meziblog/issues/15) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
 <!--END_SECTION:activity-->
 
 </details>
