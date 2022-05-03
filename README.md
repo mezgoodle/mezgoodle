@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/mezgoodle/bot_template/issues/1) in [mezgoodle/bot_template](https://github.com/mezgoodle/bot_template)
-2. 🗣 Commented on [#1](https://github.com/mezgoodle/bot_template/issues/1) in [mezgoodle/bot_template](https://github.com/mezgoodle/bot_template)
-3. 🗣 Commented on [#1](https://github.com/mezgoodle/bot_template/issues/1) in [mezgoodle/bot_template](https://github.com/mezgoodle/bot_template)
-4. ❗️ Opened issue [#1](https://github.com/mezgoodle/bot_template/issues/1) in [mezgoodle/bot_template](https://github.com/mezgoodle/bot_template)
-5. 🗣 Commented on [#6](https://github.com/mezidia/SeekMe/issues/6) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+1. ❌ Closed PR [#20](https://github.com/mezidia/pz_labs/pull/20) in [mezidia/pz_labs](https://github.com/mezidia/pz_labs)
+2. ❌ Closed PR [#2](https://github.com/mezidia/look-at-me/pull/2) in [mezidia/look-at-me](https://github.com/mezidia/look-at-me)
+3. ❌ Closed PR [#1](https://github.com/mezidia/look-at-me/pull/1) in [mezidia/look-at-me](https://github.com/mezidia/look-at-me)
+4. 🎉 Merged PR [#33](https://github.com/mezidia/mezidia-inspector/pull/33) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+5. 🎉 Merged PR [#34](https://github.com/mezidia/mezidia-inspector/pull/34) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
 <!--END_SECTION:activity-->
 
 </details>
