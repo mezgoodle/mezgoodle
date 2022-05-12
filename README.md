@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4037](https://github.com/tiangolo/fastapi/issues/4037) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-2. 🎉 Merged PR [#7](https://github.com/mezgoodle/TelegramiaSite/pull/7) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-3. ❌ Closed PR [#20](https://github.com/mezidia/pz_labs/pull/20) in [mezidia/pz_labs](https://github.com/mezidia/pz_labs)
-4. ❌ Closed PR [#2](https://github.com/mezidia/look-at-me/pull/2) in [mezidia/look-at-me](https://github.com/mezidia/look-at-me)
-5. ❌ Closed PR [#1](https://github.com/mezidia/look-at-me/pull/1) in [mezidia/look-at-me](https://github.com/mezidia/look-at-me)
+1. ❌ Closed PR [#6](https://github.com/mezgoodle/TelegramiaSite/pull/6) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+2. ❌ Closed PR [#5](https://github.com/mezgoodle/TelegramiaSite/pull/5) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+3. ❌ Closed PR [#4](https://github.com/mezgoodle/TelegramiaSite/pull/4) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+4. ❌ Closed PR [#3](https://github.com/mezgoodle/TelegramiaSite/pull/3) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+5. ❌ Closed PR [#2](https://github.com/mezgoodle/TelegramiaSite/pull/2) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
 <!--END_SECTION:activity-->
 
 </details>
