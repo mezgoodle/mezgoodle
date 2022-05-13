@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/mezgoodle/TelegramiaSite/pull/6) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-2. ❌ Closed PR [#5](https://github.com/mezgoodle/TelegramiaSite/pull/5) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-3. ❌ Closed PR [#4](https://github.com/mezgoodle/TelegramiaSite/pull/4) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-4. ❌ Closed PR [#3](https://github.com/mezgoodle/TelegramiaSite/pull/3) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-5. ❌ Closed PR [#2](https://github.com/mezgoodle/TelegramiaSite/pull/2) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+1. ❌ Closed PR [#32](https://github.com/mezgoodle/genji-moderator/pull/32) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+2. ❌ Closed PR [#6](https://github.com/mezgoodle/TelegramiaSite/pull/6) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+3. ❌ Closed PR [#5](https://github.com/mezgoodle/TelegramiaSite/pull/5) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+4. ❌ Closed PR [#4](https://github.com/mezgoodle/TelegramiaSite/pull/4) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+5. ❌ Closed PR [#3](https://github.com/mezgoodle/TelegramiaSite/pull/3) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
 <!--END_SECTION:activity-->
 
 </details>
