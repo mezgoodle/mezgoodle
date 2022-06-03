@@ -1,8 +1,9 @@
-**English** | [Українська](README_UKR.md)
+
+[English](README_ENG.md) | **Українська**
 
 <div align="center"><img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy-downsized.gif" height="250px"/></div>
 
-<h1 align="center">Hi, I'm Maksym Zavalniuk</h1>
+<h1 align="center">Привіт, мене звати Максим Завальнюк</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mezgoodle.mezgoodle)
 
@@ -10,30 +11,30 @@
 
 <hr>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/mezgoodle?tab=repositories). Look for **non-archived** and **non-private**.
-- 🔭 I’m currently working with this [projects](https://github.com/mezidia/roadmap).
-- 🌱 I’m currently learning interesting things.
-- 💬 Ask me about **Telegram** and **GitHub bots**, **Django** and **FastApi**, **React** and etc.
-- 📫 How to reach me? Write to this address: mezidiaofficial@gmail.com.
-- #️⃣ My [portfolio](https://portfolio-mezgoodle.vercel.app/).
-- 🦊 My [fox](https://gitlab.com/mezgoodle).
-- ⚡ Fun fact: copy ninja is the best.
-- 🎵 I love _Linkin Park_.
-- 🖊️ My nicknames: @sylvenis and @mezgoodle.
-- ⭐ My best projects: [song-helper](https://github.com/mezidia/song-helper), [auto-formatter](https://github.com/mezgoodle/auto-formatter), [weather-bot](https://github.com/mezgoodle/weather-bot), [github-helper](https://github.com/mezgoodle/github-helper), [genji-moderator](https://github.com/mezgoodle/genji-moderator), [TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats), [Telegramia-API](https://github.com/mezgoodle/Telegramia-API), [TOC-generator](https://github.com/mezgoodle/TOC-generator), [mezidia_tracker](https://github.com/mezidia/mezidia_tracker), [mezidia-inspector](https://github.com/mezidia/mezidia-inspector), [Telegramia](https://github.com/mezidia/Telegramia), [meziblog](https://github.com/mezgoodle/meziblog).
-- 📖 My certificates: [here](https://github.com/mezgoodle/mezgoodle/tree/master/certificates).
+- 👨‍💻 Усі мої проекти знаходяться [тут](https://github.com/mezgoodle?tab=repositories). Дивіться **неархівовані** та **неприватні**.
+- 🔭 Зараз я працюю над цими [проектами](https://github.com/mezidia/roadmap).
+- 🌱 Зараз я вивчаю якісь цікаві штуки.
+- 💬 Можете мене запитувати **Telegram** та **GitHub ботів**, **Django** та **FastApi**, **React** тощо.
+- 📫 Як зв'язатись зі мною? Пишіть листа ось на цю адресу: mezidiaofficial@gmail.com.
+- #️⃣ Моє [портфоліо](https://portfolio-mezgoodle.vercel.app/).
+- 🦊 Моя [лисиця](https://gitlab.com/mezgoodle).
+- ⚡ Цікавий факт: копіюючий ніндзя - найкращий.
+- 🎵 Я люблю _Linkin Park_.
+- 🖊️ Мої псевдоніми: @sylvenis та @mezgoodle.
+- ⭐ Мої найкращі проекти: [song-helper](https://github.com/mezidia/song-helper), [auto-formatter](https://github.com/mezgoodle/auto-formatter), [weather-bot](https://github.com/mezgoodle/weather-bot), [github-helper](https://github.com/mezgoodle/github-helper), [genji-moderator](https://github.com/mezgoodle/genji-moderator), [TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats), [Telegramia-API](https://github.com/mezgoodle/Telegramia-API), [TOC-generator](https://github.com/mezgoodle/TOC-generator), [mezidia_tracker](https://github.com/mezidia/mezidia_tracker), [mezidia-inspector](https://github.com/mezidia/mezidia-inspector), [Telegramia](https://github.com/mezidia/Telegramia), [meziblog](https://github.com/mezgoodle/meziblog).
+- 📖 Мої сертифікати: [тут](https://github.com/mezgoodle/mezgoodle/tree/master/certificates).
 
 <hr>
 
-<h3 align="left">My stack:</h3>
+<h3 align="left">Мій стек технологій:</h3>
 <p align="left">
   <ul>
-		<li>Backend: <b>Django</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> and <b>FastApi</b></li>
-		<li>Frontend: <b>React</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> and <b>NextJS</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></li>
-		<li>Database: <b>SQLite</b> and <b>MongoDB</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></li>
-		<li>Static site generators: <b>Gatsby</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="40" height="40"/></li>
-		<li>Telegram bots: <b>Aiogram</b><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></li>
-	  	<li>GitHub apps: <b>Probot</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> and <b>gidgethub</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></li>
+		<li>Бекенд: <b>Django</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> та <b>FastApi</b></li>
+		<li>Фронтенд: <b>React</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> та <b>NextJS</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></li>
+		<li>БД: <b>SQLite</b> та <b>MongoDB</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></li>
+		<li>Генератори статичних сайтів: <b>Gatsby</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="40" height="40"/></li>
+		<li>Telegram боти: <b>Aiogram</b><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></li>
+	  	<li>GitHub застосунки: <b>Probot</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> and <b>gidgethub</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></li>
   </ul>	
 </p>
 
