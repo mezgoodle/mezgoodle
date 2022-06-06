@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/mezgoodle/genji-moderator/pull/32) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-2. ❌ Closed PR [#6](https://github.com/mezgoodle/TelegramiaSite/pull/6) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-3. ❌ Closed PR [#5](https://github.com/mezgoodle/TelegramiaSite/pull/5) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-4. ❌ Closed PR [#4](https://github.com/mezgoodle/TelegramiaSite/pull/4) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
-5. ❌ Closed PR [#3](https://github.com/mezgoodle/TelegramiaSite/pull/3) in [mezgoodle/TelegramiaSite](https://github.com/mezgoodle/TelegramiaSite)
+1. ❌ Closed PR [#8](https://github.com/mezidia/mezidia-jobs/pull/8) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
+2. ❌ Closed PR [#7](https://github.com/mezidia/mezidia-jobs/pull/7) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
+3. ❌ Closed PR [#6](https://github.com/mezidia/mezidia-jobs/pull/6) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
+4. ❌ Closed PR [#5](https://github.com/mezidia/mezidia-jobs/pull/5) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
+5. ❌ Closed PR [#34](https://github.com/mezidia/Wry-Translator/pull/34) in [mezidia/Wry-Translator](https://github.com/mezidia/Wry-Translator)
 <!--END_SECTION:activity-->
 
 </details>
