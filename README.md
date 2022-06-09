@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/mezidia/mezidia-jobs/pull/8) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
-2. ❌ Closed PR [#7](https://github.com/mezidia/mezidia-jobs/pull/7) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
-3. ❌ Closed PR [#6](https://github.com/mezidia/mezidia-jobs/pull/6) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
-4. ❌ Closed PR [#5](https://github.com/mezidia/mezidia-jobs/pull/5) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
-5. ❌ Closed PR [#34](https://github.com/mezidia/Wry-Translator/pull/34) in [mezidia/Wry-Translator](https://github.com/mezidia/Wry-Translator)
+1. 🗣 Commented on [#12](https://github.com/VsIG-official/SML/issues/12) in [VsIG-official/SML](https://github.com/VsIG-official/SML)
+2. 🗣 Commented on [#12](https://github.com/VsIG-official/SML/issues/12) in [VsIG-official/SML](https://github.com/VsIG-official/SML)
+3. ❌ Closed PR [#8](https://github.com/mezidia/mezidia-jobs/pull/8) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
+4. ❌ Closed PR [#7](https://github.com/mezidia/mezidia-jobs/pull/7) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
+5. ❌ Closed PR [#6](https://github.com/mezidia/mezidia-jobs/pull/6) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
 <!--END_SECTION:activity-->
 
 </details>
