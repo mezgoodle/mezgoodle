@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/VsIG-official/SML/issues/12) in [VsIG-official/SML](https://github.com/VsIG-official/SML)
-2. 🗣 Commented on [#12](https://github.com/VsIG-official/SML/issues/12) in [VsIG-official/SML](https://github.com/VsIG-official/SML)
-3. ❌ Closed PR [#8](https://github.com/mezidia/mezidia-jobs/pull/8) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
-4. ❌ Closed PR [#7](https://github.com/mezidia/mezidia-jobs/pull/7) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
-5. ❌ Closed PR [#6](https://github.com/mezidia/mezidia-jobs/pull/6) in [mezidia/mezidia-jobs](https://github.com/mezidia/mezidia-jobs)
+1. ❌ Closed PR [#20](https://github.com/mezidia/SeekMe/pull/20) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+2. ❌ Closed PR [#22](https://github.com/mezidia/SeekMe/pull/22) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+3. ❌ Closed PR [#21](https://github.com/mezidia/SeekMe/pull/21) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+4. ❌ Closed PR [#19](https://github.com/mezidia/SeekMe/pull/19) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+5. ❌ Closed PR [#18](https://github.com/mezidia/SeekMe/pull/18) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
 <!--END_SECTION:activity-->
 
 </details>
