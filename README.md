@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/mezidia/SeekMe/pull/20) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-2. ❌ Closed PR [#22](https://github.com/mezidia/SeekMe/pull/22) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-3. ❌ Closed PR [#21](https://github.com/mezidia/SeekMe/pull/21) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-4. ❌ Closed PR [#19](https://github.com/mezidia/SeekMe/pull/19) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
-5. ❌ Closed PR [#18](https://github.com/mezidia/SeekMe/pull/18) in [mezidia/SeekMe](https://github.com/mezidia/SeekMe)
+1. ❗️ Closed issue [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+2. 🗣 Commented on [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
+3. ❌ Closed PR [#51](https://github.com/mezgoodle/github-helper/pull/51) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+4. ❌ Closed PR [#22](https://github.com/mezgoodle/meziblog/pull/22) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
+5. 🎉 Merged PR [#34](https://github.com/mezgoodle/images/pull/34) in [mezgoodle/images](https://github.com/mezgoodle/images)
 <!--END_SECTION:activity-->
 
 </details>
