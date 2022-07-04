@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-2. 🗣 Commented on [#24](https://github.com/mezidia/roadmap/issues/24) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-3. ❌ Closed PR [#51](https://github.com/mezgoodle/github-helper/pull/51) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-4. ❌ Closed PR [#22](https://github.com/mezgoodle/meziblog/pull/22) in [mezgoodle/meziblog](https://github.com/mezgoodle/meziblog)
-5. 🎉 Merged PR [#34](https://github.com/mezgoodle/images/pull/34) in [mezgoodle/images](https://github.com/mezgoodle/images)
+1. ❌ Closed PR [#42](https://github.com/mezidia/mezidia-inspector/pull/42) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+2. ❌ Closed PR [#41](https://github.com/mezidia/mezidia-inspector/pull/41) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+3. ❌ Closed PR [#43](https://github.com/mezidia/mezidia-inspector/pull/43) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+4. 🎉 Merged PR [#44](https://github.com/mezidia/mezidia-inspector/pull/44) in [mezidia/mezidia-inspector](https://github.com/mezidia/mezidia-inspector)
+5. ❌ Closed PR [#39](https://github.com/mezidia/Wry-Translator/pull/39) in [mezidia/Wry-Translator](https://github.com/mezidia/Wry-Translator)
 <!--END_SECTION:activity-->
 
 </details>
