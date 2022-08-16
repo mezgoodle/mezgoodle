@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#61](https://github.com/mezgoodle/github-helper/pull/61) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-2. ❌ Closed PR [#62](https://github.com/mezgoodle/github-helper/pull/62) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-3. ❌ Closed PR [#68](https://github.com/mezgoodle/Telegramia-API/pull/68) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-4. ❌ Closed PR [#63](https://github.com/mezgoodle/github-helper/pull/63) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-5. ❌ Closed PR [#69](https://github.com/mezgoodle/Telegramia-API/pull/69) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+1. 💪 Opened PR [#11](https://github.com/Dmytrenko-Roman/system-si-bot/pull/11) in [Dmytrenko-Roman/system-si-bot](https://github.com/Dmytrenko-Roman/system-si-bot)
+2. ❌ Closed PR [#61](https://github.com/mezgoodle/github-helper/pull/61) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+3. ❌ Closed PR [#62](https://github.com/mezgoodle/github-helper/pull/62) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
+4. ❌ Closed PR [#68](https://github.com/mezgoodle/Telegramia-API/pull/68) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+5. ❌ Closed PR [#63](https://github.com/mezgoodle/github-helper/pull/63) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
 <!--END_SECTION:activity-->
 
 </details>
