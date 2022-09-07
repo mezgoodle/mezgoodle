@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/mezidia/roadmap/issues/21) in [mezidia/roadmap](https://github.com/mezidia/roadmap)
-2. 💪 Opened PR [#11](https://github.com/Dmytrenko-Roman/system-si-bot/pull/11) in [Dmytrenko-Roman/system-si-bot](https://github.com/Dmytrenko-Roman/system-si-bot)
-3. ❌ Closed PR [#61](https://github.com/mezgoodle/github-helper/pull/61) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-4. ❌ Closed PR [#62](https://github.com/mezgoodle/github-helper/pull/62) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
-5. ❌ Closed PR [#68](https://github.com/mezgoodle/Telegramia-API/pull/68) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+1. 🎉 Merged PR [#50](https://github.com/mezgoodle/genji-moderator/pull/50) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+2. 🎉 Merged PR [#52](https://github.com/mezgoodle/genji-moderator/pull/52) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+3. 🎉 Merged PR [#51](https://github.com/mezgoodle/genji-moderator/pull/51) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+4. 🎉 Merged PR [#53](https://github.com/mezgoodle/genji-moderator/pull/53) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+5. ❌ Closed PR [#69](https://github.com/mezgoodle/github-helper/pull/69) in [mezgoodle/github-helper](https://github.com/mezgoodle/github-helper)
 <!--END_SECTION:activity-->
 
 </details>
