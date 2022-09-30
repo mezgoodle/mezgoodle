@@ -20,7 +20,7 @@
 - ⚡ Fun fact: copy ninja is the best.
 - 🎵 I love _Linkin Park_.
 - 🖊️ My nicknames: @sylvenis and @mezgoodle.
-- ⭐ My best projects: [song-helper](https://github.com/mezidia/song-helper), [auto-formatter](https://github.com/mezgoodle/auto-formatter), [weather-bot](https://github.com/mezgoodle/weather-bot), [github-helper](https://github.com/mezgoodle/github-helper), [genji-moderator](https://github.com/mezgoodle/genji-moderator), [TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats), [Telegramia-API](https://github.com/mezgoodle/Telegramia-API), [TOC-generator](https://github.com/mezgoodle/TOC-generator), [mezidia_tracker](https://github.com/mezidia/mezidia_tracker), [mezidia-inspector](https://github.com/mezidia/mezidia-inspector), [Telegramia](https://github.com/mezidia/Telegramia), [meziblog](https://github.com/mezgoodle/meziblog).
+- ⭐ My best projects: [song-helper](https://github.com/mezidia/song-helper), [auto-formatter](https://github.com/mezgoodle/auto-formatter), [weather-bot](https://github.com/mezgoodle/weather-bot), [genji-moderator](https://github.com/mezgoodle/genji-moderator), [TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats), [Telegramia-API](https://github.com/mezgoodle/Telegramia-API), [TOC-generator](https://github.com/mezgoodle/TOC-generator), [mezidia_tracker](https://github.com/mezidia/mezidia_tracker), [mezidia-inspector](https://github.com/mezidia/mezidia-inspector), [Telegramia](https://github.com/mezidia/Telegramia), [meziblog](https://github.com/mezgoodle/meziblog).
 - 📖 My certificates: [here](https://github.com/mezgoodle/mezgoodle/tree/master/certificates).
 
 <hr>
