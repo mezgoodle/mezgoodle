@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mezgoodle/game_labs/pull/2) in [mezgoodle/game_labs](https://github.com/mezgoodle/game_labs)
-2. 🎉 Merged PR [#50](https://github.com/mezgoodle/genji-moderator/pull/50) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-3. 🎉 Merged PR [#52](https://github.com/mezgoodle/genji-moderator/pull/52) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-4. 🎉 Merged PR [#51](https://github.com/mezgoodle/genji-moderator/pull/51) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-5. 🎉 Merged PR [#53](https://github.com/mezgoodle/genji-moderator/pull/53) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+1. 💪 Opened PR [#1](https://github.com/VsIG-official/Smol-README-Template/pull/1) in [VsIG-official/Smol-README-Template](https://github.com/VsIG-official/Smol-README-Template)
+2. ❌ Closed PR [#54](https://github.com/mezgoodle/genji-moderator/pull/54) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+3. ❌ Closed PR [#55](https://github.com/mezgoodle/genji-moderator/pull/55) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+4. 🎉 Merged PR [#56](https://github.com/mezgoodle/genji-moderator/pull/56) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+5. 🎉 Merged PR [#57](https://github.com/mezgoodle/genji-moderator/pull/57) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
 <!--END_SECTION:activity-->
 
 </details>
