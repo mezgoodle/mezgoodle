@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mezgoodle/game_labs/pull/3) in [mezgoodle/game_labs](https://github.com/mezgoodle/game_labs)
-2. 💪 Opened PR [#1](https://github.com/VsIG-official/Smol-README-Template/pull/1) in [VsIG-official/Smol-README-Template](https://github.com/VsIG-official/Smol-README-Template)
-3. ❌ Closed PR [#54](https://github.com/mezgoodle/genji-moderator/pull/54) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-4. ❌ Closed PR [#55](https://github.com/mezgoodle/genji-moderator/pull/55) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-5. 🎉 Merged PR [#56](https://github.com/mezgoodle/genji-moderator/pull/56) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+1. 💪 Opened PR [#1](https://github.com/nyukers/ansible-demo/pull/1) in [nyukers/ansible-demo](https://github.com/nyukers/ansible-demo)
+2. 💪 Opened PR [#1](https://github.com/nyukers/Zabbix/pull/1) in [nyukers/Zabbix](https://github.com/nyukers/Zabbix)
+3. 💪 Opened PR [#2](https://github.com/nyukers/Testing-by-Python/pull/2) in [nyukers/Testing-by-Python](https://github.com/nyukers/Testing-by-Python)
+4. 🎉 Merged PR [#3](https://github.com/mezgoodle/game_labs/pull/3) in [mezgoodle/game_labs](https://github.com/mezgoodle/game_labs)
+5. 💪 Opened PR [#1](https://github.com/VsIG-official/Smol-README-Template/pull/1) in [VsIG-official/Smol-README-Template](https://github.com/VsIG-official/Smol-README-Template)
 <!--END_SECTION:activity-->
 
 </details>
