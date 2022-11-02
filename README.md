@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/mezgoodle/capture-lectures/pull/1) in [mezgoodle/capture-lectures](https://github.com/mezgoodle/capture-lectures)
-2. 💪 Opened PR [#1](https://github.com/nyukers/ansible-demo/pull/1) in [nyukers/ansible-demo](https://github.com/nyukers/ansible-demo)
-3. 💪 Opened PR [#1](https://github.com/nyukers/Zabbix/pull/1) in [nyukers/Zabbix](https://github.com/nyukers/Zabbix)
-4. 💪 Opened PR [#2](https://github.com/nyukers/Testing-by-Python/pull/2) in [nyukers/Testing-by-Python](https://github.com/nyukers/Testing-by-Python)
-5. 🎉 Merged PR [#3](https://github.com/mezgoodle/game_labs/pull/3) in [mezgoodle/game_labs](https://github.com/mezgoodle/game_labs)
+1. ❌ Closed PR [#83](https://github.com/mezgoodle/Telegramia-API/pull/83) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+2. ❌ Closed PR [#84](https://github.com/mezgoodle/Telegramia-API/pull/84) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+3. ❌ Closed PR [#85](https://github.com/mezgoodle/Telegramia-API/pull/85) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+4. ❌ Closed PR [#86](https://github.com/mezgoodle/Telegramia-API/pull/86) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+5. ❌ Closed PR [#87](https://github.com/mezgoodle/Telegramia-API/pull/87) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
 <!--END_SECTION:activity-->
 
 </details>
