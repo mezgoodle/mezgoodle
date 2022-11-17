@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#83](https://github.com/mezgoodle/Telegramia-API/pull/83) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-2. ❌ Closed PR [#84](https://github.com/mezgoodle/Telegramia-API/pull/84) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-3. ❌ Closed PR [#85](https://github.com/mezgoodle/Telegramia-API/pull/85) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-4. ❌ Closed PR [#86](https://github.com/mezgoodle/Telegramia-API/pull/86) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-5. ❌ Closed PR [#87](https://github.com/mezgoodle/Telegramia-API/pull/87) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+1. ❌ Closed PR [#183](https://github.com/mezidia/song-helper/pull/183) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+2. ❌ Closed PR [#182](https://github.com/mezidia/song-helper/pull/182) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+3. ❌ Closed PR [#181](https://github.com/mezidia/song-helper/pull/181) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+4. ❌ Closed PR [#180](https://github.com/mezidia/song-helper/pull/180) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+5. ❌ Closed PR [#179](https://github.com/mezidia/song-helper/pull/179) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
 <!--END_SECTION:activity-->
 
 </details>
