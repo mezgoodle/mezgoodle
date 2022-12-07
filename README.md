@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/866/goexperiments/issues/3) in [866/goexperiments](https://github.com/866/goexperiments)
-2. ❌ Closed PR [#183](https://github.com/mezidia/song-helper/pull/183) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-3. ❌ Closed PR [#182](https://github.com/mezidia/song-helper/pull/182) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-4. ❌ Closed PR [#181](https://github.com/mezidia/song-helper/pull/181) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
-5. ❌ Closed PR [#180](https://github.com/mezidia/song-helper/pull/180) in [mezidia/song-helper](https://github.com/mezidia/song-helper)
+1. 🎉 Merged PR [#2](https://github.com/mezidia/KD-Unity-Labs/pull/2) in [mezidia/KD-Unity-Labs](https://github.com/mezidia/KD-Unity-Labs)
+2. 🎉 Merged PR [#64](https://github.com/mezgoodle/genji-moderator/pull/64) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+3. ❌ Closed PR [#65](https://github.com/mezgoodle/genji-moderator/pull/65) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+4. 🎉 Merged PR [#66](https://github.com/mezgoodle/genji-moderator/pull/66) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+5. 🎉 Merged PR [#67](https://github.com/mezgoodle/genji-moderator/pull/67) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
 <!--END_SECTION:activity-->
 
 </details>
