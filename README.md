@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mezidia/KD-Unity-Labs/pull/2) in [mezidia/KD-Unity-Labs](https://github.com/mezidia/KD-Unity-Labs)
-2. 🎉 Merged PR [#64](https://github.com/mezgoodle/genji-moderator/pull/64) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-3. ❌ Closed PR [#65](https://github.com/mezgoodle/genji-moderator/pull/65) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-4. 🎉 Merged PR [#66](https://github.com/mezgoodle/genji-moderator/pull/66) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-5. 🎉 Merged PR [#67](https://github.com/mezgoodle/genji-moderator/pull/67) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+1. 🎉 Merged PR [#1](https://github.com/mezgoodle/devto-posts/pull/1) in [mezgoodle/devto-posts](https://github.com/mezgoodle/devto-posts)
+2. 🎉 Merged PR [#2](https://github.com/mezgoodle/devto-posts/pull/2) in [mezgoodle/devto-posts](https://github.com/mezgoodle/devto-posts)
+3. 🎉 Merged PR [#3](https://github.com/mezgoodle/devto-posts/pull/3) in [mezgoodle/devto-posts](https://github.com/mezgoodle/devto-posts)
+4. ❌ Closed PR [#93](https://github.com/mezgoodle/Telegramia-API/pull/93) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+5. 🎉 Merged PR [#4](https://github.com/mezgoodle/devto-posts/pull/4) in [mezgoodle/devto-posts](https://github.com/mezgoodle/devto-posts)
 <!--END_SECTION:activity-->
 
 </details>
