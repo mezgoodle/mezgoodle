@@ -42,11 +42,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/mezgoodle/genji-moderator/pull/70) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-2. ❌ Closed PR [#94](https://github.com/mezgoodle/Telegramia-API/pull/94) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-3. ❌ Closed PR [#95](https://github.com/mezgoodle/Telegramia-API/pull/95) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-4. 🎉 Merged PR [#71](https://github.com/mezgoodle/genji-moderator/pull/71) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-5. ❌ Closed PR [#72](https://github.com/mezgoodle/genji-moderator/pull/72) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+1. ❗️ Opened issue [#2](https://github.com/mezgoodle/bot_template/issues/2) in [mezgoodle/bot_template](https://github.com/mezgoodle/bot_template)
+2. 🎉 Merged PR [#70](https://github.com/mezgoodle/genji-moderator/pull/70) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
+3. ❌ Closed PR [#94](https://github.com/mezgoodle/Telegramia-API/pull/94) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+4. ❌ Closed PR [#95](https://github.com/mezgoodle/Telegramia-API/pull/95) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
+5. 🎉 Merged PR [#71](https://github.com/mezgoodle/genji-moderator/pull/71) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
 <!--END_SECTION:activity-->
 
 </details>
