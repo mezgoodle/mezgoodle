@@ -1,72 +1,56 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maksym Zavalniuk
+========================================================================================================================================
 
-[English](README_ENG.md) | **Українська**
+Web and Telegram bots developer
+-------------------------------
 
-<div align="center"><img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy-downsized.gif" height="250px"/></div>
+I started learning programming from school. Now I am working more with Python in web development, but I am interested in all ares of programming.
 
-<h1 align="center">Привіт, мене звати Максим Завальнюк</h1>
+* 🌍  I'm based in Kyiv, Ukraine
+* 🖥️  See my portfolio at [site](http://portfolio-mezgoodle.vercel.app/)
+* ✉️  You can contact me at [mezgoodle@gmail.com](mailto:mezgoodle@gmail.com)
+* 🚀  I'm currently working on [CafeMez](http://github.com/mezgoodle/CafeMez)
+* 🧠  I'm learning the 3rd version of aiogram
+* 🤝  I'm open to collaborating on interesting projects
 
-![](https://visitor-badge.glitch.me/badge?page_id=mezgoodle.mezgoodle)
+<a href="https://www.github.com/mezgoodle" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mezgoodle?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezgoodle&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="mezgoodle" /></a></p>
+### Skills
 
-<hr>
 
-- 👨‍💻 Усі мої проекти знаходяться [тут](https://github.com/mezgoodle?tab=repositories). Дивіться **неархівовані** та **неприватні**.
-- 🔭 Зараз я працюю над цими [проектами](https://github.com/mezidia/roadmap).
-- 🌱 Зараз я вивчаю якісь цікаві штуки.
-- 💬 Можете мене запитувати **Telegram** та **GitHub ботів**, **Django** та **FastApi**, **React** тощо.
-- 📫 Як зв'язатись зі мною? Пишіть листа ось на цю адресу: mezidiaofficial@gmail.com.
-- #️⃣ Моє [портфоліо](https://portfolio-mezgoodle.vercel.app/).
-- 🦊 Моя [лисиця](https://gitlab.com/mezgoodle).
-- ⚡ Цікавий факт: копіюючий ніндзя - найкращий.
-- 🎵 Я люблю _Linkin Park_.
-- 🖊️ Мої псевдоніми: @sylvenis та @mezgoodle.
-- ⭐ Мої найкращі проекти: [song-helper](https://github.com/mezidia/song-helper), [auto-formatter](https://github.com/mezgoodle/auto-formatter), [weather-bot](https://github.com/mezgoodle/weather-bot), [genji-moderator](https://github.com/mezgoodle/genji-moderator), [TelegramiaStats](https://github.com/mezgoodle/TelegramiaStats), [Telegramia-API](https://github.com/mezgoodle/Telegramia-API), [TOC-generator](https://github.com/mezgoodle/TOC-generator), [mezidia_tracker](https://github.com/mezidia/mezidia_tracker), [mezidia-inspector](https://github.com/mezidia/mezidia-inspector), [Telegramia](https://github.com/mezidia/Telegramia), [meziblog](https://github.com/mezgoodle/meziblog).
-- 📖 Мої сертифікати: [тут](https://github.com/mezgoodle/mezgoodle/tree/master/certificates).
-
-<hr>
-
-<h3 align="left">Мій стек технологій:</h3>
 <p align="left">
-  <ul>
-		<li>Бекенд: <b>Django</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> та <b>FastApi</b></li>
-		<li>Фронтенд: <b>React</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> та <b>NextJS</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></li>
-		<li>БД: <b>SQLite</b> та <b>MongoDB</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></li>
-		<li>Генератори статичних сайтів: <b>Gatsby</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="40" height="40"/></li>
-		<li>Telegram боти: <b>Aiogram</b><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></li>
-	  	<li>GitHub застосунки: <b>Probot</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> and <b>gidgethub</b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></li>
-  </ul>	
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/mezgoodle/bot_template/issues/2) in [mezgoodle/bot_template](https://github.com/mezgoodle/bot_template)
-2. 🎉 Merged PR [#70](https://github.com/mezgoodle/genji-moderator/pull/70) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-3. ❌ Closed PR [#94](https://github.com/mezgoodle/Telegramia-API/pull/94) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-4. ❌ Closed PR [#95](https://github.com/mezgoodle/Telegramia-API/pull/95) in [mezgoodle/Telegramia-API](https://github.com/mezgoodle/Telegramia-API)
-5. 🎉 Merged PR [#71](https://github.com/mezgoodle/genji-moderator/pull/71) in [mezgoodle/genji-moderator](https://github.com/mezgoodle/genji-moderator)
-<!--END_SECTION:activity-->
+### Socials
 
-</details>
+<p align="left"> <a href="https://www.dev.to/mezgoodle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/mezgoodle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mezgoodle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sylvenis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maksym-zavalniuk-ba4a72193" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mezgoodle&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mezgoodle" /></p>
+### Badges
 
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&locale=en&hide_border=true" alt="mezgoodle" /></p>
+<b>My GitHub Stats</b>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle&hide_border=false" alt="mezgoodle" /></p>
-</details>
+<a href="http://www.github.com/mezgoodle"><img src="https://github-readme-stats.vercel.app/api?username=mezgoodle&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mezgoodle's GitHub stats" /></a>
 
+<a href="http://www.github.com/mezgoodle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mezgoodle&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/mezgoodle"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mezgoodle&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p align="center">
-	<a href="mailto:mezidiaofficial@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mezgoodle@gmail.com" height="30" width="30" /></a>
-	<a href="https://www.facebook.com/profile.php?id=100005721694357" target="_blank" title="Facebook"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005721694357" height="30" width="30" /></a>
-	<a href="https://www.instagram.com/sylvenis/" target="_blank" title="Instagram"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sylvenis/" height="30" width="30" /></a>
-	<a href="https://t.me/sylvenis" target="_blank" title="Telegram"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/sylvenis" height="30" width="30" /></a>
-	<a href="https://www.linkedin.com/in/maxim-zavalniuk-ba4a72193/" target="_blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maxim-zavalniuk-ba4a72193/" height="30" width="30" /></a>
-	<a href="https://dev.to/mezgoodle" target="_blank" title="DevTo blog"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/devdotto.svg" alt="https://www.linkedin.com/in/maxim-zavalniuk-ba4a72193/" height="30" width="30" /></a>
-</p>
+<a href="https://github.com/mezgoodle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgoodle&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/mezgoodle/CafeMez" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mezgoodle&repo=CafeMez&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mezgoodle/PasswordManager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mezgoodle&repo=PasswordManager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/mezgoodle/auto-formatter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mezgoodle&repo=auto-formatter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mezgoodle/Telegramia-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mezgoodle&repo=Telegramia-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
