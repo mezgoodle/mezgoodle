@@ -6,12 +6,12 @@ Backend developer
 
 I started learning programming from school. Now I am working more with Python in web development, but I am interested in all ares of programming
 
-* 🌍  I'm based in Kyiv, Ukraine
-* 🖥️  See my portfolio at [site](http://portfolio-mezgoodle.vercel.app/)
-* ✉️  You can contact me at [mezgoodle@gmail.com](mailto:mezgoodle@gmail.com)
-* 🚀  I'm currently working on [CafeMez](http://github.com/mezgoodle/CafeMez)
-* 🧠  I'm learning the 3rd version of aiogram
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍  I'm based in Kyiv, Ukraine.
+* ✉️  You can contact me at [mezgoodle@gmail.com](mailto:mezgoodle@gmail.com).
+* 🚀  I'm currently working on [CafeMez](http://github.com/mezgoodle/CafeMez).
+* 🦊 My fox is [here](https://gitlab.com/mezgoodle).
+* 🧠  I'm learning the 3rd version of aiogram and Django.
+* 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.github.com/mezgoodle" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mezgoodle?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
