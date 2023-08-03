@@ -8,6 +8,14 @@ Backend developer
 
 <!--START_SECTION:waka-->
 
+```txt
+Python       9 hrs 5 mins    ███████████████████░░░░░░   75.42 %
+TypeScript   1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+YAML         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+```
+
 <!--END_SECTION:waka-->
 
 
