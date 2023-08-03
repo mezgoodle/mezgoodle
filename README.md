@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maksym Zavalniuk
 ========================================================================================================================================
 
-Backend developer
--------------------------------
 
-[![wakatime](https://wakatime.com/badge/user/13631fc5-0ee5-4aed-920d-b02dc1546d51.svg)](https://wakatime.com/@13631fc5-0ee5-4aed-920d-b02dc1546d51)
+My total coding time: [![wakatime](https://wakatime.com/badge/user/13631fc5-0ee5-4aed-920d-b02dc1546d51.svg)](https://wakatime.com/@13631fc5-0ee5-4aed-920d-b02dc1546d51)
 
+My last 7-days coding time:
 <!--START_SECTION:waka-->
 
 ```txt
