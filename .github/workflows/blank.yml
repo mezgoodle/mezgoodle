@@ -15,3 +15,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_7_days
           SHOW_TOTAL: true
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
