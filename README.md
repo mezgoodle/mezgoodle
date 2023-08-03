@@ -9,6 +9,8 @@ Backend developer
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 12 hrs 1 min
+
 Python       9 hrs 5 mins    ███████████████████░░░░░░   75.42 %
 TypeScript   1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
 JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
