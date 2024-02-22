@@ -9,15 +9,15 @@ My last 7-days coding time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
-Total Time: 16 hrs 13 mins
+Total Time: 12 hrs 33 mins
 
-Python       12 hrs 47 mins  ███████████████████▓░░░░░   78.74 %
-JSON         1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-JavaScript   1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-TOML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python       7 hrs 54 mins   ███████████████▓░░░░░░░░░   62.66 %
+JSON         1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+YAML         1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+JavaScript   1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
