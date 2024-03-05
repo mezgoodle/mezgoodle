@@ -9,14 +9,14 @@ My last 7-days coding time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 03 March 2024
+From: 26 February 2024 - To: 04 March 2024
 
-Total Time: 11 hrs 36 mins
+Total Time: 8 hrs 58 mins
 
-Python   9 hrs 25 mins   ████████████████████▒░░░░   81.25 %
-JSON     1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-YAML     32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   6 hrs 2 mins    █████████████████░░░░░░░░   67.35 %
+JSON     2 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+YAML     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
