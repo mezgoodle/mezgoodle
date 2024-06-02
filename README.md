@@ -1,10 +1,6 @@
 Hi, my name is Maksym Zavalniuk
 ========================================================================================================================================
 
-![](https://www.codewars.com/users/mezgoodle/badges/large?theme=light)
-
-My total coding time: [![wakatime](https://wakatime.com/badge/user/13631fc5-0ee5-4aed-920d-b02dc1546d51.svg)](https://wakatime.com/@13631fc5-0ee5-4aed-920d-b02dc1546d51)
-
 My last 7-days coding time:
 <!--START_SECTION:waka-->
 
