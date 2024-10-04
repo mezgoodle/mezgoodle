@@ -3,6 +3,9 @@ Hi, my name is Maksym Zavalniuk
 
 My last articles on Dev.To
 <!-- dev.to articles start -->
+- [StudyHelper - my new pet project(Telegram bot)](https://dev.to/mezgoodle/studyhelper-my-new-pet-projecttelegram-bot-3f41)
+- [Top VS Code Extensions to Boost Your Productivity](https://dev.to/mezgoodle/top-vs-code-extensions-to-boost-your-productivity-2oic)
+- [Physics into programming: Using physical phenomena to cluster data](https://dev.to/mezgoodle/physics-into-programming-using-physical-phenomena-to-cluster-data-3849)
 
 <!-- dev.to articles end -->
 
