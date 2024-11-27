@@ -13,15 +13,15 @@ My last 7-days coding time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-Total Time: 7 hrs 53 mins
+Total Time: 7 hrs 46 mins
 
-Dart         5 hrs 2 mins    ████████████████░░░░░░░░░   63.79 %
-JavaScript   1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-Python       1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Dart         3 hrs 16 mins   ██████████▓░░░░░░░░░░░░░░   42.11 %
+Python       2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.53 %
+JavaScript   1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
