@@ -13,15 +13,15 @@ My last 7-days coding time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 13 July 2025 - To: 20 July 2025
 
-Total Time: 19 hrs 40 mins
+Total Time: 18 hrs 40 mins
 
-Python       9 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.38 %
-JSON         5 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Dart         2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-SQL          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-YAML         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Python       10 hrs 4 mins   █████████████▒░░░░░░░░░░░   53.51 %
+Dart         3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+JSON         3 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+TypeScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
