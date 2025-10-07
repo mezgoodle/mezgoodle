@@ -13,15 +13,15 @@ My last 7-days coding time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Total Time: 19 hrs 11 mins
+Total Time: 17 hrs 56 mins
 
-Python            9 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.63 %
-JSON              4 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
-Go                2 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Protocol Buffer   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Other             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Python            8 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   45.86 %
+JSON              3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Go                2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Protocol Buffer   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Other             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
