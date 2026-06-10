@@ -13,15 +13,15 @@ My last 7-days coding time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2026 - To: 08 June 2026
+From: 02 June 2026 - To: 09 June 2026
 
-Total Time: 24 hrs 44 mins
+Total Time: 25 hrs 11 mins
 
-Python       20 hrs 4 mins         ████████████████████▒░░░░   80.84 %
-SQL          1 hr 18 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-JSON         1 hr 16 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Makefile     45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Go           21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python       19 hrs 6 mins         ██████████████████▓░░░░░░   75.06 %
+JSON         2 hrs 14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+SQL          1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Makefile     45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Go           20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
