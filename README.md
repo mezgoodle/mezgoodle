@@ -1,5 +1,20 @@
-Hi, my name is Maksym Zavalniuk
-========================================================================================================================================
+# Hi, I'm Maksym 👋
+
+Software Engineer & Researcher passionate about **Python**, **modern web development**, **AI agents**, and **automation**.
+
+---
+
+### 🌐 Connect & Academic Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym_Zavalniuk-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mezgoodle/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-mezgoodle-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/mezgoodle)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=BYOoNjUAAAAJ&hl=uk)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2387-4476)
+[![Telegram](https://img.shields.io/badge/Telegram-@sylvenis-26A5E4?style=flat-square&logo=telegram)](https://t.me/sylvenis)
+
+---
+
+### 📝 Publications & Writings
 
 My last articles on Dev.To
 <!-- dev.to articles start -->
@@ -9,22 +24,10 @@ My last articles on Dev.To
 
 <!-- dev.to articles end -->
 
-My last 7-days coding time:
-<!--START_SECTION:waka-->
+#### Academic Research
+* *Methods and means of processing and transmitting informative signals received from frequency sensors of physical quantities in wireless sensor networks* — currently 2/4 stages.
 
-```txt
-From: 30 September 2026 - To: 07 October 2026
-
-Total Time: 8 hrs 50 mins
-
-Markdown   4 hrs 7 mins          █████████░░░░░░░░░░░░░░░░   36.23 %
-Python     2 hrs 45 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-Other      2 hrs 31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-YAML       1 hr 18 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Vue        36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-```
-
-<!--END_SECTION:waka-->
+---
 
 
 ### Socials
