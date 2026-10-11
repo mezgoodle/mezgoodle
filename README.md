@@ -1,6 +1,15 @@
 # Hi, I'm Maksym 👋
 
-Software Engineer & Researcher passionate about **Python**, **modern web development**, **AI agents**, and **automation**.
+### 👨‍💻 About Me
+
+I'm a Software Engineer and PhD researcher focused on building scalable backend solutions, intelligent automations, and bridging academic research with real-world software.
+
+* 🎓 **Academic Background:** Currently pursuing a PhD in Information-Measuring Technologies, holding degrees in Computer-Integrated Technologies and Software Engineering.
+* 💼 **Engineering Focus:** Specializing in Python, modern web frameworks (Next.js), APIs, and building resilient data pipelines & scrapers.
+* 🤖 **AI & Systems:** Actively experimenting with AI agents, agentic workflows, and LLM-assisted developer tools.
+* 🔬 **Research Interests:** Wireless sensor networks, frequency-based transducers, and telemetry data processing.
+* ⚙️ **Builder Mindset:** Passionate about end-to-end automation — from Telegram bots and internal productivity tools to IoT/embedded prototypes.
+* ⚡ **When Offline:** Long-distance MTB cycling, calisthenics, and hunting 100% achievements in video games.
 
 ---
 
@@ -16,7 +25,7 @@ Software Engineer & Researcher passionate about **Python**, **modern web develop
 
 ### 📝 Publications & Writings
 
-My last articles on Dev.To
+#### My last articles on Dev.To
 <!-- dev.to articles start -->
 - [The Self-Healing Codebase: Leveraging Agentic Workflows to Automate Your Side Projects](https://dev.to/mezgoodle/the-self-healing-codebase-leveraging-agentic-workflows-to-automate-your-side-projects-1opc)
 - [StudyHelper - my new pet project(Telegram bot)](https://dev.to/mezgoodle/studyhelper-my-new-pet-projecttelegram-bot-3f41)
@@ -29,9 +38,15 @@ My last articles on Dev.To
 
 ---
 
+### 🚴 Lifestyle & Hobbies
 
-### Socials
+<!-- Спортивні, медійні та ігрові профілі -->
+[![Strava](https://img.shields.io/badge/Strava-Profile-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://www.strava.com/athletes/ВАШ_STRAVA_ID)
+[![Spotify](https://img.shields.io/badge/Spotify-Listening-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/ВАШ_SPOTIFY_ID)
+[![Steam](https://img.shields.io/badge/Steam-mezgoodle-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ВАШ_STEAM_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-@sylvenis-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sylvenis)
+[![Discord](https://img.shields.io/badge/Discord-sylvenis-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
-<p align="left"> <a href="https://www.dev.to/mezgoodle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/mezgoodle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mezgoodle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sylvenis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maksym-zavalniuk-ba4a72193" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<br/>
 
 <a href="https://www.exophase.com/user/sylvenis/"><img src="https://card.exophase.com/2/0/338609.png?1791489493"></a>
