@@ -46,6 +46,7 @@ I'm a Software Engineer and PhD researcher focused on building scalable backend 
 [![Steam](https://img.shields.io/badge/Steam-mezgoodle-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ВАШ_STEAM_ID)
 [![Instagram](https://img.shields.io/badge/Instagram-@sylvenis-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sylvenis)
 [![Discord](https://img.shields.io/badge/Discord-sylvenis-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Notion](https://img.shields.io/badge/Notion-movies-000000?style=flat-square&logo=notion&logoColor=white)](https://excellent-physician-e91.notion.site/Movie-Tracker-18293166f486802abd43ce6da519e148)
 
 <br/>
 
