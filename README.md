@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer and PhD researcher focused on building scalable backend solutions, intelligent automations, and bridging academic research with real-world software.
+I'm a Software Engineer and PhD researcher focused on building scalable backend solutions, intelligent automations, and bridging academic research with real-world software. [Here](https://drive.google.com/file/d/133_jJiFkl9vVOuY83GgIM8H2U0g6n0DN/view?usp=sharing) you can view my resume.
 
 * 🎓 **Academic Background:** Currently pursuing a PhD in Information-Measuring Technologies, holding degrees in Computer-Integrated Technologies and Software Engineering.
 * 💼 **Engineering Focus:** Specializing in Python, modern web frameworks (Next.js), APIs, and building resilient data pipelines & scrapers.
@@ -17,7 +17,7 @@ I'm a Software Engineer and PhD researcher focused on building scalable backend 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym_Zavalniuk-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mezgoodle/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-mezgoodle-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/mezgoodle)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=BYOoNjUAAAAJ&hl=uk)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=uk&user=BYOoNjUAAAAJ&view_op=list_works&sortby=pubdate)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2387-4476)
 [![Telegram](https://img.shields.io/badge/Telegram-@sylvenis-26A5E4?style=flat-square&logo=telegram)](https://t.me/sylvenis)
 
@@ -41,10 +41,10 @@ I'm a Software Engineer and PhD researcher focused on building scalable backend 
 ### 🚴 Lifestyle & Hobbies
 
 <!-- Спортивні, медійні та ігрові профілі -->
-[![Strava](https://img.shields.io/badge/Strava-Profile-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://www.strava.com/athletes/ВАШ_STRAVA_ID)
-[![Spotify](https://img.shields.io/badge/Spotify-Listening-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/ВАШ_SPOTIFY_ID)
-[![Steam](https://img.shields.io/badge/Steam-mezgoodle-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/ВАШ_STEAM_ID)
-[![Instagram](https://img.shields.io/badge/Instagram-@sylvenis-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sylvenis)
+[![Strava](https://img.shields.io/badge/Strava-Profile-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://www.strava.com/athletes/145352076)
+[![Spotify](https://img.shields.io/badge/Spotify-Listening-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/xep5tsvm8ronkujlyf7ev3zqd?si=6a9bea1ff8ce49d2)
+[![Steam](https://img.shields.io/badge/Steam-mezgoodle-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/sylvenis/)
+[![Instagram](https://img.shields.io/badge/Instagram-@sylvenis-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sylvenis/)
 [![Discord](https://img.shields.io/badge/Discord-sylvenis-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 [![Notion](https://img.shields.io/badge/Notion-movies-000000?style=flat-square&logo=notion&logoColor=white)](https://excellent-physician-e91.notion.site/Movie-Tracker-18293166f486802abd43ce6da519e148)
 
